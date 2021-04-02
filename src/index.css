@@ -10,7 +10,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(245, 245, 245);
+  background-color: rgb(255, 255, 255);
+  font-size: 17px;
 }
 
 code {
@@ -25,26 +26,40 @@ header {
 
 header h1 {
   color: white;
-  max-width: 1200px;
+  /* max-width: 1200px; */
   margin: 0 auto;
   letter-spacing: 1px;
+  margin: auto;
+  width: 50%;
+  font-size: 20px;
 }
 
 /*  */
 
 .bottom {
   background-color: black;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
-  height: 35px; /* Height of the footer */
-  background: rgb(0, 0, 0);
+  height: 30px; /* Height of the footer */
+  background: rgb(199, 255, 238);
   letter-spacing: 1px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   text-align: center;
   font-size: 15px;
 }
 
 .bottom a {
-  color: rgb(182, 255, 172);
+  color: rgb(86, 0, 143);
+  font-weight: 300;
+}
+
+.intro {
+  padding-top: 15px;
+  margin: auto;
+  width: 75%;
+}
+
+.font-serif {
+  letter-spacing: 1px;
 }
