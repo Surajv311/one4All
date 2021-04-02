@@ -2,3 +2,49 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(245, 245, 245);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+header {
+  background: #000000;
+  padding: 10px;
+}
+
+header h1 {
+  color: white;
+  max-width: 1200px;
+  margin: 0 auto;
+  letter-spacing: 1px;
+}
+
+/*  */
+
+.bottom {
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 35px; /* Height of the footer */
+  background: rgb(0, 0, 0);
+  letter-spacing: 1px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 15px;
+}
+
+.bottom a {
+  color: rgb(182, 255, 172);
+}
