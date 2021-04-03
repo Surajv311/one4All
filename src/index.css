@@ -77,4 +77,10 @@ header h1 {
 .table {
   margin: auto;
   width: 75%;
+  text-align: center;
 }
+
+/* .alignname {
+  padding-top: 70px;
+  margin-top: 70px;
+} */
