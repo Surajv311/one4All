@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+
+.horizontal_rule {
+  width: 20em;
+  display: block;
+  height: 5px;
+  background-color: #4b4b4d;
+  margin: 30px auto 30px auto;
+  border-radius: 10px;
+}
