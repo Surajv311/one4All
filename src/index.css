@@ -80,7 +80,7 @@ header h1 {
   text-align: center;
 }
 
-/* .alignname {
-  padding-top: 70px;
-  margin-top: 70px;
-} */
+.alignset {
+  text-align: center;
+  margin-left: 50%;
+}
