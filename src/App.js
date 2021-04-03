@@ -3,7 +3,7 @@ import React from "react";
 import Table from "./components/Table";
 import Footer from "./components/Footer";
 import Intro from "./components/Intro";
-
+import Horizontal from "./components/Horizontalrule.js";
 function App() {
   return (
     <div className="App">
@@ -12,8 +12,13 @@ function App() {
       </header>
 
       <Intro />
+      <br></br>
       <Table />
 
+      <Horizontal />
+      <Table />
+      <Table />
+      <Table />
       <Footer />
     </div>
   );
