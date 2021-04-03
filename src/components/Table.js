@@ -56,13 +56,15 @@ const customStyles = {
   },
 };
 
-function App() {
+const title = <h1 className="alignset"> All data </h1>;
+
+function Table() {
   return (
     <div className="font-serif table">
       <Card>
-        <h1 class="alignname">all resources data</h1>
+        {/* <h1 class="alignset">all resources data</h1> */}
         <DataTable
-          title="all resources data"
+          title={title}
           columns={columns}
           data={all_data}
           customStyles={customStyles}
@@ -71,4 +73,4 @@ function App() {
     </div>
   );
 }
-export default App;
+export default Table;
