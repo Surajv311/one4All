@@ -1,28 +1,17 @@
-import "./App.css";
-import React from "react";
-import Table from "./components/Table";
-import Footer from "./components/Footer";
-import Intro from "./components/Intro";
-import Horizontal from "./components/Horizontalrule.js";
-function App() {
-  return (
-    <div className="App">
-      <header class="font-serif">
-        <h1>oneForAll (One point for all resources and opportunities)</h1>
-        {/* html tag ... <header>.. */}
-      </header>
+import React, { useState, useEffect } from "react";
+import Main from "./Main";
+import Loading from "./components/Loading";
 
-      <Intro />
-      <br></br>
-      <Table />
+const App = () => {
+  const [isLoading, setIsLoading] = useState(true);
 
-      <Horizontal />
-      <Table />
-      <Table />
-      <Table />
-      <Footer />
-    </div>
-  );
-}
+  useEffect(() => {
+    setTimeout(() => {
+      setIsLoading(false);
+    }, 2500);
+  });
+
+  return <div>{isLoading == true ? <Loading /> : <Main />}</div>;
+};
 
 export default App;
