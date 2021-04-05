@@ -3,15 +3,15 @@ import Main from "./Main";
 import Loading from "./components/Loading";
 
 const App = () => {
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoad, setLoad] = useState(true);
 
   useEffect(() => {
     setTimeout(() => {
-      setIsLoading(false);
-    }, 2500);
+      setLoad(false);
+    }, 1000);
   });
 
-  return <div>{isLoading == true ? <Loading /> : <Main />}</div>;
+  return <div>{isLoad == true ? <Loading /> : <Main />}</div>;
 };
 
 export default App;
