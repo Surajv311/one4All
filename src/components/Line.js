@@ -1,7 +1,7 @@
 import React from "react";
-import "../App.css";
+import "../Main.css";
 
-const Horizontalrule = () => {
+const Line = () => {
   return (
     <div>
       <div class="horizontal_rule"></div>
@@ -9,4 +9,4 @@ const Horizontalrule = () => {
   );
 };
 
-export default Horizontalrule;
+export default Line;
