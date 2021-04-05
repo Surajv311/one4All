@@ -8,7 +8,11 @@ const all_data = data.map((e) => ({
   ...e,
 }));
 
-const Test = (ee) => <a href={ee.year}>Link</a>;
+const Test = (ee) => (
+  <div className="changeColor">
+    <a href={ee.year}>Link</a>
+  </div>
+);
 const Test1 = (ee) => <p>{ee.info}</p>;
 
 const columns = [
@@ -56,8 +60,11 @@ const customStyles = {
   },
 };
 
-const title = <h1 className="alignset"> All data </h1>;
-
+const title = (
+  <div>
+    <h1 className="alignset"> All data </h1>
+  </div>
+);
 function Table() {
   return (
     <div className="font-serif table">

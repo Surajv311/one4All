@@ -65,7 +65,7 @@ header h1 {
 }
 
 .intro {
-  padding-top: 15px;
+  padding-top: 20px;
   margin: auto;
   width: 75%;
 }
@@ -83,4 +83,8 @@ header h1 {
 .alignset {
   text-align: center;
   margin-left: 50%;
+}
+
+.changeColor {
+  color: blue;
 }
