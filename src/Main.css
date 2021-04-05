@@ -33,10 +33,10 @@
 }
 
 .horizontal_rule {
-  width: 20em;
+  width: 40%;
   display: block;
   height: 5px;
-  background-color: #4b4b4d;
+  background-color: #380066;
   margin: 30px auto 30px auto;
-  border-radius: 10px;
+  border-radius: 60%;
 }
