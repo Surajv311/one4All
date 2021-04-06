@@ -1,64 +1,61 @@
 export default [
   {
     id: 1,
-    title: "asasas",
-    year: "200464567",
-    info: "ieoureowirueior",
+    title: "Microsoft Learn Student Ambassador (Previously MSP)",
+    link: "https://studentambassadors.microsoft.com/",
+    info:
+      "Students in any year of their undergrad course can apply. Applications are open throughout the year.",
   },
   {
     id: 2,
-    title: "qwecvxb",
-    year: "2012323107",
-    info: "ieoureowirueiorieoureowirueiorieoureowirueior",
+    title: " Github Campus Expert",
+    link: "https://apply.githubcampus.expert/",
+    info: "  Applications open twice a year in Feb and August.",
   },
   {
     id: 3,
-    title: "cvcxvcxv",
-    year: "8987070892007",
+    title: "GeeksForGeeks Campus Ambassador",
+    link:
+      "https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/",
     info:
-      "ieoureowirueiorieoureowirueiorieoureowirueiorieoureowirueiorieoureowirueior",
+      " Sophomore and Prefinal year students can apply. Applications open in around May/June. ",
   },
   {
     id: 4,
-    title: "hjhgkhjk",
-    year: "465662850807",
-    info:
-      "ieoureowirueiorieoureowirueiorieoureowirueiorieoureowirueiorieoureowirueiorieoureowirueior",
+    title: " HackerEarth University Ambassador Program",
+    link: "https://www.hackerearth.com/university/",
+    info: "(Check the website for updates)",
   },
   {
     id: 5,
-    title: "ytmhfxdt",
-    year: "240ret5407",
-    info: "ieoureowirueior",
+    title: " Hackerrank Campus Ambassador  ",
+    link: "https://www.hackerrank.com/campus-ambassador-program",
+    info: "(Check the website for updates)",
   },
   {
     id: 6,
-    title: "trtgregerle",
-    year: "5646456547",
-    info: "ieoureowirueior",
+    title: " Cisco Devnet Campus Ambassador ",
+    link: "https://developer.cisco.com/site/student/",
+    info: "(Check the website for updates)",
   },
   {
     id: 7,
-    title: "fdffdgfdgdfgd",
-    year: "208798798977",
-    info: "ieoureowirueior",
+    title: "Intel Software Innovator Program ",
+    link:
+      "https://devmesh.intel.com/member-programs/intel-software-innovator-program#:~:text=Intel%20Software%20Innovator%20Program%20The%20Intel%C2%AE%20Software%20Innovator,demonstration%20opportunities%20at%20industry%20events%20and%20developer%20gatherings.",
+    info: "(Check the website for updates)",
   },
   {
     id: 8,
-    title: "ngdnnfngfnfn",
-    year: "54645654478696",
-    info: "ieoureowirueior",
+    title: " AWS Educate Student Ambassador ",
+    link:
+      "https://aws.amazon.com/education/awseducate/student-ambassador-program/",
+    info: "(Check the website for updates)",
   },
   {
     id: 9,
-    title: "kluitudtytjt",
-    year: "234324243",
-    info: "ieoureowirueior",
-  },
-  {
-    id: 10,
-    title: "retregergreger",
-    year: "fdgfd2fgdfg0",
-    info: "ieoureowirueior",
+    title: " Alexa student influencer ",
+    link: "https://developer.amazon.com/en-IN/alexa/alexa-student-influencer",
+    info: "(Check the website for updates)",
   },
 ];
