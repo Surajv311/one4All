@@ -73,18 +73,3 @@ header h1 {
 .font-serif {
   letter-spacing: 1px;
 }
-
-.table {
-  margin: auto;
-  width: 75%;
-  text-align: center;
-}
-
-.alignset {
-  text-align: center;
-  margin-left: 50%;
-}
-
-.changeColor {
-  color: blue;
-}
