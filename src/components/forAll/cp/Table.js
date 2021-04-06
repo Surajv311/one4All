@@ -68,7 +68,7 @@ function Table() {
         <h1 class="alignset">Competitive Programming Competitions</h1>
 
         <p class="alignp">
-          Some useful links exclusively to practice and learn CP : <br></br>
+          Some useful links to practice and learn CP : <br></br>
           <a class="changeColor_a" href="https://codeforces.com/">
             Codeforces
           </a>
