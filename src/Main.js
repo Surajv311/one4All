@@ -1,10 +1,12 @@
 import "./Main.css";
 import React from "react";
-import Table from "./components/Table";
 import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import Ribbon from "./components/Ribbon";
 import Line from "./components/Line.js";
+
+import Table from "./components/forAll/campusexp/Table";
+
 function Main() {
   return (
     <div className="App">
