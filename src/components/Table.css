@@ -1,14 +1,38 @@
 .table {
   margin: auto;
+  margin-top: 10px;
   width: 75%;
   text-align: center;
 }
 
 .alignset {
   text-align: center;
-  margin-left: 50%;
+  margin-top: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 20px;
 }
 
 .changeColor {
   color: blue;
 }
+
+/*
+
+  word-wrap: break-word;
+    display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex-grow: 4;
+  flex-flow: column wrap;
+  overflow-wrap: break-word;
+  max-width: 80%;
+  word-wrap: break-word;
+  hyphens: auto;
+  margin: 20px 50%;
+  margin-right: 50%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+ position: relative;
+ */
