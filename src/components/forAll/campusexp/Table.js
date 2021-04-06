@@ -34,7 +34,7 @@ const columns = [
     name: "Link",
     // selector: "email",
     cell: (dd) => <Test {...dd} />,
-    grow: 2,
+    // grow: 2,
     center: 1,
   },
 ];
@@ -61,18 +61,12 @@ const customStyles = {
   },
 };
 
-const title = (
-  <div>
-    <h1 className="alignset"> All data </h1>
-  </div>
-);
 function Table() {
   return (
     <div className="font-serif table">
       <Card>
-        {/* <h1 class="alignset">all resources data</h1> */}
+        <h1 class="alignset">Campus Ambassador Opportunities</h1>
         <DataTable
-          title={title}
           columns={columns}
           data={all_data}
           customStyles={customStyles}
