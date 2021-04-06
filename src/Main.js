@@ -7,6 +7,8 @@ import Line from "./components/Line.js";
 import BreakLine from "./components/BreakLine.js";
 import TableCampusExp from "./components/forAll/campusexp/Table";
 import Cpc from "./components/forAll/cp/Table";
+import Externship from "./components/forAll/externship/Table";
+import Hackathons from "./components/forAll/hackathons/Table";
 
 function Main() {
   return (
@@ -28,6 +30,9 @@ function Main() {
       <Line />
       <Cpc />
 
+      <Externship />
+
+      <Hackathons />
       <Line />
       <h1 class="font-serif htag">
         Opportunities <strong>exclusively for women</strong>
