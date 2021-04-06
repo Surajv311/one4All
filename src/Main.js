@@ -6,6 +6,7 @@ import Ribbon from "./components/Ribbon";
 import Line from "./components/Line.js";
 import BreakLine from "./components/BreakLine.js";
 import TableCampusExp from "./components/forAll/campusexp/Table";
+import Cpc from "./components/forAll/cp/Table";
 
 function Main() {
   return (
@@ -25,6 +26,8 @@ function Main() {
       <TableCampusExp />
 
       <Line />
+      <Cpc />
+
       <Line />
       <h1 class="font-serif htag">
         Opportunities <strong>exclusively for women</strong>
