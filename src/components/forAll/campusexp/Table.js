@@ -36,6 +36,7 @@ const columns = [
     cell: (d) => <Links {...d} />,
     // grow: 2,
     center: 1,
+    wrap: true,
   },
 ];
 
@@ -43,14 +44,14 @@ const customStyles = {
   rows: {
     style: {
       minHeight: "90px", // override the row height
-      fontSize: "18px",
+      fontSize: "16px",
     },
   },
   headCells: {
     style: {
       paddingLeft: "8px", // override the cell padding for head cells
       paddingRight: "8px",
-      fontSize: "19px",
+      fontSize: "18px",
     },
   },
   cells: {

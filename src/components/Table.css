@@ -10,7 +10,7 @@
   margin-top: 20px;
   margin-left: 5%;
   margin-right: 5%;
-  font-size: 21px;
+  font-size: 20px;
 }
 
 .changeColor {
@@ -20,7 +20,7 @@
 /*
 
   word-wrap: break-word;
-    display: flex;
+  display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   flex-grow: 4;
@@ -35,4 +35,5 @@
   justify-content: center;
   margin: 0 auto;
  position: relative;
+ 
  */
