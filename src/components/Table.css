@@ -1,0 +1,14 @@
+.table {
+  margin: auto;
+  width: 75%;
+  text-align: center;
+}
+
+.alignset {
+  text-align: center;
+  margin-left: 50%;
+}
+
+.changeColor {
+  color: blue;
+}
