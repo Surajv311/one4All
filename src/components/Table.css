@@ -13,6 +13,17 @@
   font-size: 20px;
 }
 
+.alignp {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 18px;
+}
+
+.changeColor_a {
+  color: darkblue;
+}
 .changeColor {
   color: blue;
 }
