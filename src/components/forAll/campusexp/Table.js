@@ -9,12 +9,12 @@ const all_data = data.map((e) => ({
   ...e,
 }));
 
-const Test = (ee) => (
+const Links = (e) => (
   <div className="changeColor">
-    <a href={ee.year}>Link</a>
+    <a href={e.link}>Link</a>
   </div>
 );
-const Test1 = (ee) => <p>{ee.info}</p>;
+const Infos = (e) => <p>{e.info}</p>;
 
 const columns = [
   {
@@ -25,15 +25,15 @@ const columns = [
   },
   {
     name: "Info",
-    // selector: "email",
-    cell: (dd) => <Test1 {...dd} />,
+    // selector: "info",
+    cell: (d) => <Infos {...d} />,
     wrap: true,
     center: 1,
   },
   {
     name: "Link",
-    // selector: "email",
-    cell: (dd) => <Test {...dd} />,
+    // selector: "link",
+    cell: (d) => <Links {...d} />,
     // grow: 2,
     center: 1,
   },
@@ -42,15 +42,15 @@ const columns = [
 const customStyles = {
   rows: {
     style: {
-      minHeight: "85px", // override the row height
-      fontSize: "16px",
+      minHeight: "90px", // override the row height
+      fontSize: "18px",
     },
   },
   headCells: {
     style: {
       paddingLeft: "8px", // override the cell padding for head cells
       paddingRight: "8px",
-      fontSize: "18px",
+      fontSize: "19px",
     },
   },
   cells: {
