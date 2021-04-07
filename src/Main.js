@@ -14,6 +14,8 @@ import Opensource from "./components/forAll/opensource/Table";
 import Research from "./components/forAll/research/Table";
 import Scholarship_w from "./components/forWomen/scholarship/Table";
 import Mentorship_w from "./components/forWomen/mentorship/Table";
+import Diversity_w from "./components/forWomen/diversityhire/Table";
+
 function Main() {
   return (
     <div className="App">
@@ -47,6 +49,7 @@ function Main() {
 
       <Scholarship_w />
       <Mentorship_w />
+      <Diversity_w />
       <h1 class="font-serif htag">
         <strong>Resources</strong>
       </h1>
