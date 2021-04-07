@@ -17,6 +17,7 @@ import Mentorship_w from "./components/forWomen/mentorship/Table";
 import Diversity_w from "./components/forWomen/diversityhire/Table";
 import Hackathon_w from "./components/forWomen/hackathoncontests/Table";
 import Programming_w from "./components/forWomen/programmingcontests/Table";
+import Resources from "./components/resourcesforAll/Table";
 
 function Main() {
   return (
@@ -58,6 +59,7 @@ function Main() {
         <strong>Resources</strong>
       </h1>
 
+      <Resources />
       {/* <Table />
       <Table />
       <Table /> */}
