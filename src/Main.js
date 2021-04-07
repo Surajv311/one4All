@@ -15,6 +15,7 @@ import Research from "./components/forAll/research/Table";
 import Scholarship_w from "./components/forWomen/scholarship/Table";
 import Mentorship_w from "./components/forWomen/mentorship/Table";
 import Diversity_w from "./components/forWomen/diversityhire/Table";
+import Hackathon_w from "./components/forWomen/hackathoncontests/Table";
 
 function Main() {
   return (
@@ -50,6 +51,7 @@ function Main() {
       <Scholarship_w />
       <Mentorship_w />
       <Diversity_w />
+      <Hackathon_w />
       <h1 class="font-serif htag">
         <strong>Resources</strong>
       </h1>
