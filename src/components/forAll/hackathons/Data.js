@@ -37,7 +37,7 @@ export default [
     title: "MLH Explorer ",
     link: "https://fellowship.mlh.io/programs/explorer",
     info:
-      "It's a good alternative to an internship; Here you'll be collaborating in small groups with other developers on a series of short hackathon sprints.",
+      "You'll be collaborating in small groups with other developers on a series of short hackathon sprints.",
   },
   {
     id: 7,
