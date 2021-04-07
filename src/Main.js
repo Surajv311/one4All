@@ -11,7 +11,9 @@ import Externship from "./components/forAll/externship/Table";
 import Hackathons from "./components/forAll/hackathons/Table";
 import Miscopp from "./components/forAll/miscOpportunities/Table";
 import Opensource from "./components/forAll/opensource/Table";
-
+import Research from "./components/forAll/research/Table";
+import Scholarship_w from "./components/forWomen/scholarship/Table";
+import Mentorship_w from "./components/forWomen/mentorship/Table";
 function Main() {
   return (
     <div className="App">
@@ -36,14 +38,16 @@ function Main() {
       <Miscopp />
       <Hackathons />
       <Opensource />
+      <Research />
       <Line />
       <h1 class="font-serif htag">
         Opportunities <strong>exclusively for women</strong>
       </h1>
       <BreakLine />
 
+      <Scholarship_w />
+      <Mentorship_w />
       <h1 class="font-serif htag">
-        {" "}
         <strong>Resources</strong>
       </h1>
 
