@@ -9,6 +9,7 @@ import TableCampusExp from "./components/forAll/campusexp/Table";
 import Cpc from "./components/forAll/cp/Table";
 import Externship from "./components/forAll/externship/Table";
 import Hackathons from "./components/forAll/hackathons/Table";
+import Miscopp from "./components/forAll/miscOpportunities/Table";
 
 function Main() {
   return (
@@ -31,7 +32,7 @@ function Main() {
       <Cpc />
 
       <Externship />
-
+      <Miscopp />
       <Hackathons />
       <Line />
       <h1 class="font-serif htag">
