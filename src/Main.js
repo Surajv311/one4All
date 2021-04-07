@@ -10,6 +10,7 @@ import Cpc from "./components/forAll/cp/Table";
 import Externship from "./components/forAll/externship/Table";
 import Hackathons from "./components/forAll/hackathons/Table";
 import Miscopp from "./components/forAll/miscOpportunities/Table";
+import Opensource from "./components/forAll/opensource/Table";
 
 function Main() {
   return (
@@ -34,6 +35,7 @@ function Main() {
       <Externship />
       <Miscopp />
       <Hackathons />
+      <Opensource />
       <Line />
       <h1 class="font-serif htag">
         Opportunities <strong>exclusively for women</strong>
