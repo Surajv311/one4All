@@ -10,7 +10,8 @@ const Intro = () => {
       The first lists out the <em>opportunities for everyone</em>, then{" "}
       <em>opportunities exclusively for women</em> and lastly,{" "}
       <em>resources</em>. You can learn and upskill yourself by associating with
-      them. Feel free to fork and contribute to this project.
+      them. Feel free to fork and contribute to this project. <br></br>
+      (PS: If you find this useful, do consider giving it a ⭐!)
     </div>
   );
 };
