@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import Ribbon from "./components/Ribbon";
 import Line from "./components/Line.js";
+import LineThick from "./components/LineThick.js";
 import BreakLine from "./components/BreakLine.js";
 import TableCampusExp from "./components/forAll/campusexp/Table";
 import Cpc from "./components/forAll/cp/Table";
@@ -34,35 +35,43 @@ function Main() {
         Opportunities <strong>for everyone</strong>
       </h1>
       <BreakLine />
+      <Hackathons />
+      <Line />
       <TableCampusExp />
-
       <Line />
       <Cpc />
-
+      <Line />
       <Externship />
-      <Miscopp />
-      <Hackathons />
-      <Opensource />
+      <Line />
       <Research />
       <Line />
+      <Opensource />
+      <Line />
+      <Miscopp />
+      <LineThick />
       <h1 class="font-serif htag">
         Opportunities <strong>exclusively for women</strong>
       </h1>
       <BreakLine />
 
       <Scholarship_w />
-      <Mentorship_w />
+      <Line />
       <Diversity_w />
-      <Hackathon_w />
+      <Line />
+      <Mentorship_w />
+      <Line />
       <Programming_w />
+      <Line />
+      <Hackathon_w />
+      <LineThick />
       <h1 class="font-serif htag">
         <strong>Resources</strong>
       </h1>
-
+      <BreakLine />
       <Resources />
-      {/* <Table />
-      <Table />
-      <Table /> */}
+
+      <LineThick />
+      <BreakLine />
       <Footer />
     </div>
   );
