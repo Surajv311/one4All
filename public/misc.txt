@@ -1,0 +1,179 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1)
+# Interviewprep
+
+> **This repo contains a list of *forked* repositories holding important resources for a person to ace his/her next job interview!**
+
+### Coding 
+
+* [Questions to ask the company during your interview](https://github.com/Uncodedtech/reverse-interview)
+* [materials to rock next coding interview](https://github.com/Uncodedtech/tech-interview-handbook)
+* [Learn how to design large-scale systems](https://github.com/Uncodedtech/system-design-primer)
+* [System design interview for IT companies](https://github.com/Uncodedtech/system-design-interview)
+* [Bringing all Data Structures and Algorithms under one Roof ⚡](https://github.com/Uncodedtech/NeoAlgo)
+* [All Algorithms implemented in Python](https://github.com/Uncodedtech/Python)
+* [A collection of algorithms and data structures](https://github.com/Uncodedtech/Algorithms)
+* [Resources for Competitive Programming](https://github.com/Uncodedtech/Competitive-Programming-Resources)
+* [📝 Algorithms and data structures implemented in JavaScript](https://github.com/Uncodedtech/javascript-algorithms)
+
+
+### Development  
+
+* [A curated awesome list of lists of interview questions](https://github.com/Uncodedtech/awesome-interview-questions)
+* [🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"](https://github.com/Uncodedtech/front-end-interview-handbook)
+* [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/Uncodedtech/react)
+* [List of top 500 ReactJS Interview Questions & Answers](https://github.com/Uncodedtech/reactjs-interview-questions)
+* [📜 33 concepts every JavaScript developer should know](https://github.com/Uncodedtech/33-js-concepts)
+* [Javascript Questions](https://github.com/Uncodedtech/javascript-questions)
+
+-----------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2)
+https://github.com/Uncodedtech/design-resources-for-developers
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3)
+# Jobslist
+
+> **This repo includes list of *forked* repositories which hold a list of opportunities available to people in tech.** 
+
+* [awesome-job-list](https://github.com/Uncodedtech/awesome-job-list)
+* [Companies that don't have a broken hiring process](https://github.com/Uncodedtech/hiring-without-whiteboards)
+* [A list of semi to fully remote-friendly companies in tech](https://github.com/Uncodedtech/remote-jobs)
+* [A list of Developer Community Writer Programs](https://github.com/Uncodedtech/CommunityWriterPrograms)
+
+-----------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+4)
+# Project_based_learning
+
+> **This repo includes links to important repositories which could be useful for project based learning.**
+
+* [🤓 Build your own (insert technology here)](https://github.com/Uncodedtech/build-your-own-x)
+* [📃 A list of practical projects that anyone can solve in any programming language.](https://github.com/Uncodedtech/Projects)
+* [500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/Uncodedtech/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+* [A curated list of project tutorials for project-based learning.](https://github.com/Uncodedtech/projectlearn-project-based-learning)
+
+----------------------------------------------
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+5)
+
+# apis_devops
+
+> **This repo includes links to important repositories that hold a list of free api's to use in projects and resources.**
+
+* [A collective list of free APIs for use in software and web development](https://github.com/Uncodedtech/public-apis)
+* [A curated list of awesome resources for design and implement RESTful API's](https://github.com/Uncodedtech/awesome-api)
+* [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/Uncodedtech/free-for-dev)
+* [👽 A free, fast and beautiful API request builder used by 100k+ developer](https://github.com/Uncodedtech/hoppscotch)
+
+----------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+6)
+# RoadmapsResources
+
+> **This repo includes links to important repositories holding different developer roadmaps and resources.** 
+
+* [View roadmaps about developer roles to help you learn](https://github.com/Uncodedtech/awesome-roadmaps)
+* [DevOps resources](https://github.com/Uncodedtech/devops-resources)
+* [📝 An awesome Data Science repository to learn and apply for real world problems](https://github.com/Uncodedtech/awesome-datascience)
+* [Machine learning List of all the lessons learned, best practices...](https://github.com/Uncodedtech/Machine-Learning-Links-And-Lessons-Learned)
+* [Flutter](https://github.com/Uncodedtech/awesome-flutter)
+* [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
+* [An interactive git visualization to challenge and educate!](https://github.com/Uncodedtech/learnGitBranching)
+* [📙 Amazon Web Services — a practical guide](https://github.com/Uncodedtech/og-aws)
+* [How to systematically secure anything: a repository about security engineering](https://github.com/Uncodedtech/how-to-secure-anything)
+* [Web Security Basics](https://github.com/Uncodedtech/web-security-basics)
+* [A complete computer science study plan to become a software engineer.](https://github.com/Uncodedtech/coding-interview-university#coding-question-practice)
+* [30 seconds of code](https://github.com/Uncodedtech/30-seconds-of-code)
+* [You Dont Know JS](https://github.com/Uncodedtech/You-Dont-Know-JS)
+* [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
+
+
+------------------------------------------------------------------
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+7)
+https://github.com/Uncodedtech/awesome-cheatsheets
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+8)
+
+# ceo
+
+> **This repo includes links to important repositories that are aimed towards people interested in marketing/entrepreneurship.**
+
+* [Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.](https://github.com/Uncodedtech/awesome-leading-and-managing)
+* [A curated collection of marketing articles & tools to grow your product](https://github.com/Uncodedtech/Marketing-for-Engineers)
+* [A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/Uncodedtech/awesome-cto)
+
+
+---------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+9)
+
+# miscRepositories
+
+> **Miscellaneous repositories. It includes list of good projects, templates, references etc..**
+
+
+### Templates
+
+* [An awesome README template to jumpstart your projects!](https://github.com/Uncodedtech/Best-README-Template)
+* [A collection of useful .gitignore templates](https://github.com/Uncodedtech/gitignore)
+
+---------------------------------------------
+
+### Projects
+
+* [🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://github.com/Uncodedtech/Amazing-Python-Scripts)
+* [🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo](https://github.com/Uncodedtech/machine-learning-experiments)
+* [Automatically sync your leetcode solutions to your github...](https://github.com/Uncodedtech/LeetHub)
+* [React Suite, react components ](https://github.com/Uncodedtech/rsuite)
+* [Github metrics](https://github.com/Uncodedtech/metrics)
+* [Bringing Old Photo Back to Life (CVPR 2020 oral)](https://github.com/Uncodedtech/Bringing-Old-Photos-Back-to-Life)
+* [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/Uncodedtech/Real-Time-Voice-Cloning)
+* [Screen to gif](https://github.com/Uncodedtech/ScreenToGif)
+* [Mail for good_email marketing management](https://github.com/Uncodedtech/mail-for-good)
+* [...Text to handwriting..](https://github.com/Uncodedtech/text-to-handwriting)
+* [Rotten Scripts](https://github.com/Uncodedtech/Rotten-Scripts)
+* [Medium clones-Realworld](https://github.com/Uncodedtech/realworld)
+
+---------------------------------------------
+
+### Insightful
+
+* [How to make Computer OS](https://github.com/Uncodedtech/How-to-Make-a-Computer-Operating-System)
+* [1on1 questions](https://github.com/Uncodedtech/1on1-questions)
+* [#DevJoke. Submit a PR if you know a good dev joke.](https://github.com/Uncodedtech/devjoke)
+* [Computational-Intelligence-Papers](https://github.com/Uncodedtech/Computational-Intelligence-Papers)
+* [Algorithm Books](https://github.com/Uncodedtech/Free-Algorithm-Books-1)
+* [Resources for independent developers to make money](https://github.com/Uncodedtech/awesome-indie)
+* [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
+* [📝 Today I Learned](https://github.com/Uncodedtech/til)
+* [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
+
+---------------------------------------------
+
+### Other useful links/resources/youtube channels...
+
+* [🔗 Some useful websites for programmers.](https://github.com/Uncodedtech/Best-websites-a-programmer-should-visit)
+* [A curated list of awesome warez and piracy links](https://github.com/Uncodedtech/awesome-piracy)
+* [A curated list of awesome C++ (or C) frameworks, libraries, resources...](https://github.com/Uncodedtech/awesome-cpp)
+* [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
+
+
+
+-------------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
