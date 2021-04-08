@@ -33,7 +33,16 @@
 }
 
 .horizontal_rule {
-  width: 40%;
+  width: 30%;
+  display: block;
+  height: 5px;
+  background-color: #380066;
+  margin: 30px auto 30px auto;
+  border-radius: 50px;
+}
+
+.thick_horizontal_rule {
+  width: 80%;
   display: block;
   height: 5px;
   background-color: #380066;
