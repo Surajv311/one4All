@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import Ribbon from "./components/Ribbon";
 import Line from "./components/Line.js";
-import LineThick from "./components/LineThick.js";
+// import LineThick from "./components/LineThick.js";
 import LineLong from "./components/LineLong.js";
 import BreakLine from "./components/BreakLine.js";
 import TableCampusExp from "./components/forAll/campusexp/Table";
@@ -51,7 +51,8 @@ function Main() {
       <Opensource />
       <Line />
       <Miscopp />
-      <LineThick />
+      {/* <LineThick /> */}
+      <LineLong />
       <h1 class="font-serif htag">
         Opportunities <strong>exclusively for women</strong>
       </h1>
@@ -66,7 +67,8 @@ function Main() {
       <ProgrammingW />
       <Line />
       <HackathonW />
-      <LineThick />
+      {/* <LineThick /> */}
+      <LineLong />
       <h1 class="font-serif htag">
         <strong>Resources</strong>
       </h1>
