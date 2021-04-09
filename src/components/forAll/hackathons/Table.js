@@ -65,32 +65,34 @@ function Table() {
   return (
     <div className="font-serif table">
       <Card>
-        <h1 class="alignset"> Developer Competitions/Hackathons</h1>
+        <div className="divcolor">
+          <h1 class="alignset"> Developer Competitions/Hackathons</h1>
 
-        <p class="alignp">
-          Some useful links to search for hackathons around you:
-          <br></br>
-          <a class="changeColor_a" href="https://angelhack.com/">
-            Angelhack
-          </a>
-          ,
-          <a class="changeColor_a" href="https://devpost.com/">
-            Devpost
-          </a>
-          ,
-          <a class="changeColor_a" href="https://devfolio.co/">
-            Devfolio
-          </a>
-          ,
-          <a class="changeColor_a" href="https://mlh.io/seasons/2021/events">
-            MLH Hackathons
-          </a>
-          ,
-          <a class="changeColor_a" href="https://www.hackerearth.com/">
-            Hackerearth
-          </a>
-        </p>
-
+          <p class="alignp">
+            Some useful links to search for hackathons around you:
+            <br></br>
+            <a class="changeColor_a" href="https://angelhack.com/">
+              Angelhack
+            </a>
+            ,{" "}
+            <a class="changeColor_a" href="https://devpost.com/">
+              Devpost
+            </a>
+            ,{" "}
+            <a class="changeColor_a" href="https://devfolio.co/">
+              Devfolio
+            </a>
+            ,{" "}
+            <a class="changeColor_a" href="https://mlh.io/seasons/2021/events">
+              MLH Hackathons
+            </a>
+            ,{" "}
+            <a class="changeColor_a" href="https://www.hackerearth.com/">
+              Hackerearth
+            </a>
+            .
+          </p>
+        </div>
         <DataTable
           columns={columns}
           data={all_data}
