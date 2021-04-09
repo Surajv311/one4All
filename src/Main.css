@@ -41,7 +41,7 @@
   border-radius: 50px;
 }
 .horizontal_rule_end {
-  width: 100%;
+  width: 80%;
   display: block;
   height: 6px;
   background-color: #380066;
@@ -50,7 +50,7 @@
 }
 
 .thick_horizontal_rule {
-  width: 80%;
+  width: 50%;
   display: block;
   height: 5px;
   background-color: #380066;
