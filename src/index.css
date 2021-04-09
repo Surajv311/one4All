@@ -10,7 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(249, 249, 249);
   font-size: 17px;
 
   display: flex;
@@ -64,9 +64,5 @@ header h1 {
   padding-top: 20px;
   margin: auto;
   width: 75%;
-  font-size: 17px;
-}
-
-.font-serif {
-  letter-spacing: 1px;
+  font-size: 18px;
 }
