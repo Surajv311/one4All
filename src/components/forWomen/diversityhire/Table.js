@@ -17,23 +17,24 @@ const Infos = (e) => <p>{e.info}</p>;
 
 const columns = [
   {
-    name: "Name",
+    name: <strong>Name</strong>,
     selector: "title",
     wrap: true,
     center: 1,
+    cell: (row) => <div style={{ fontWeight: 700 }}>{row.title}</div>,
   },
   {
-    name: "Info",
+    name: <strong>Info</strong>,
     // selector: "info",
     cell: (d) => <Infos {...d} />,
     wrap: true,
     center: 1,
+    grow: 2.5,
   },
   {
-    name: "Link",
+    name: <strong>Link</strong>,
     // selector: "link",
     cell: (d) => <Links {...d} />,
-    // grow: 2,
     center: 1,
     wrap: true,
   },
@@ -42,20 +43,20 @@ const columns = [
 const customStyles = {
   rows: {
     style: {
-      minHeight: "90px",
-      fontSize: "16px",
+      minHeight: "90px", // override the row height
+      fontSize: "16.5px",
     },
   },
   headCells: {
     style: {
-      paddingLeft: "8px",
+      paddingLeft: "8px", // override the cell padding for head cells
       paddingRight: "8px",
-      fontSize: "18px",
+      fontSize: "19px",
     },
   },
   cells: {
     style: {
-      paddingLeft: "8px",
+      paddingLeft: "8px", // override the cell padding for data cells
       paddingRight: "8px",
     },
   },
@@ -63,9 +64,11 @@ const customStyles = {
 
 function Table() {
   return (
-    <div className="font-serif table">
+    <div className="table">
       <Card>
-        <h1 class="alignset"> Diversity Hiring Programs</h1>
+        <div className="divcolor">
+          <h1 class="alignset"> Diversity Hiring Programs</h1>
+        </div>
         <DataTable
           columns={columns}
           data={all_data}

@@ -16,17 +16,16 @@ const Links = (e) => (
 
 const columns = [
   {
-    name: "Name",
+    name: <strong>Name</strong>,
     selector: "title",
     wrap: true,
     center: 1,
+    cell: (row) => <div style={{ fontWeight: 700 }}>{row.title}</div>,
   },
-
   {
-    name: "Link",
+    name: <strong>Link</strong>,
     // selector: "link",
     cell: (d) => <Links {...d} />,
-    // grow: 2,
     center: 1,
     wrap: true,
   },
@@ -36,29 +35,30 @@ const customStyles = {
   rows: {
     style: {
       minHeight: "75px", // size changed...
-      fontSize: "16px",
+      fontSize: "16.5px",
     },
   },
   headCells: {
     style: {
-      paddingLeft: "8px",
+      paddingLeft: "8px", // override the cell padding for head cells
       paddingRight: "8px",
-      fontSize: "18px",
+      fontSize: "19px",
     },
   },
   cells: {
     style: {
-      paddingLeft: "8px",
+      paddingLeft: "8px", // override the cell padding for data cells
       paddingRight: "8px",
     },
   },
 };
-
 function Table() {
   return (
-    <div className="font-serif table">
+    <div className="table">
       <Card>
-        <h1 class="alignset"> Resource </h1>
+        <div className="divcolor">
+          <h1 class="alignset"> Resource </h1>
+        </div>
         <DataTable
           columns={columns}
           data={all_data}
