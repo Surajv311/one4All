@@ -1,4 +1,5 @@
 import "./Main.css";
+import "./fonts.css";
 import React from "react";
 import Footer from "./components/Footer";
 import Intro from "./components/Intro";
@@ -25,15 +26,15 @@ import Scrollup from "./components/Scrollup";
 function Main() {
   return (
     <div className="App">
-      <header class="font-serif">
-        <h1>oneForAll (One point for all resources and opportunities)</h1>
-        {/* html tag ... <header>.. */}
+      <header>
+        <h1 className="head">oneForAll</h1>
+        <p className="para">One point for all resources & opportunities</p>
       </header>
       <Ribbon />
       <Intro />
       <BreakLine />
       <Line />
-      <h1 class="font-serif htag">
+      <h1 class="htag">
         Opportunities <strong>for everyone</strong>
       </h1>
       <BreakLine />
