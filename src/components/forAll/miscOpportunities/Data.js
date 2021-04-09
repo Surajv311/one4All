@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Google STEP Internship ",
@@ -72,3 +72,5 @@ export default [
       "Space Apps inspires communities to come together, think intensely, and create solutions to important problems. Event usually happens in Sept-Oct.",
   },
 ];
+
+export default data;

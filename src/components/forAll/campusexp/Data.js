@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Microsoft Learn Student Ambassador (Previously MSP)",
@@ -59,3 +59,5 @@ export default [
     info: "(Check the website for updates)",
   },
 ];
+
+export default data;

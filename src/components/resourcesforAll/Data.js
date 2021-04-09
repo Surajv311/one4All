@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Interview Preparation",
@@ -46,3 +46,5 @@ export default [
     link: "https://github.com/Uncodedtech/miscRepositories",
   },
 ];
+
+export default data;

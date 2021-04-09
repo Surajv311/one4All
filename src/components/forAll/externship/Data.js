@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Major League Hacking (MLH) Externship ",
@@ -21,3 +21,5 @@ export default [
       "The GitHub Externship is a 90 days fellowship program for pre-final year students of GitHub Campus Partner schools.",
   },
 ];
+
+export default data;

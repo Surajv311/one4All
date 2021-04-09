@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "code jam to I/O for women",
@@ -25,3 +25,5 @@ export default [
       " The contest is conducted in September. Check the website for more info.",
   },
 ];
+
+export default data;

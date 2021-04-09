@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Wootech Mentorship",
@@ -55,3 +55,4 @@ export default [
     info: " (Check the website) ",
   },
 ];
+export default data;

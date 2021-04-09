@@ -14,11 +14,11 @@ import Hackathons from "./components/forAll/hackathons/Table";
 import Miscopp from "./components/forAll/miscOpportunities/Table";
 import Opensource from "./components/forAll/opensource/Table";
 import Research from "./components/forAll/research/Table";
-import Scholarship_w from "./components/forWomen/scholarship/Table";
-import Mentorship_w from "./components/forWomen/mentorship/Table";
-import Diversity_w from "./components/forWomen/diversityhire/Table";
-import Hackathon_w from "./components/forWomen/hackathoncontests/Table";
-import Programming_w from "./components/forWomen/programmingcontests/Table";
+import ScholarshipW from "./components/forWomen/scholarship/Table";
+import MentorshipW from "./components/forWomen/mentorship/Table";
+import DiversityW from "./components/forWomen/diversityhire/Table";
+import HackathonW from "./components/forWomen/hackathoncontests/Table";
+import ProgrammingW from "./components/forWomen/programmingcontests/Table";
 import Resources from "./components/resourcesforAll/Table";
 import Scrollup from "./components/Scrollup";
 
@@ -56,15 +56,15 @@ function Main() {
       </h1>
       <BreakLine />
 
-      <Scholarship_w />
+      <ScholarshipW />
       <Line />
-      <Diversity_w />
+      <DiversityW />
       <Line />
-      <Mentorship_w />
+      <MentorshipW />
       <Line />
-      <Programming_w />
+      <ProgrammingW />
       <Line />
-      <Hackathon_w />
+      <HackathonW />
       <LineThick />
       <h1 class="font-serif htag">
         <strong>Resources</strong>

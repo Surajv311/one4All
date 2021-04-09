@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Microsoft Imagine Cup ",
@@ -46,3 +46,5 @@ export default [
     info: " (Check the website) ",
   },
 ];
+
+export default data;

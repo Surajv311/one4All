@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Nutanix Heart Women in Tech",
@@ -43,3 +43,5 @@ export default [
       " If selected you'll get a sponsored 3 day Trip to USA to attend GHC and also career opportunities at Tech giants.",
   },
 ];
+
+export default data;

@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Flipkart Diversity Hiring",
@@ -19,3 +19,5 @@ export default [
       "A 6-months internship opportunity at Amazon for deserving candidates.",
   },
 ];
+
+export default data;

@@ -11,7 +11,7 @@ const App = () => {
     }, 1000);
   });
 
-  return <div>{isLoad == true ? <Loading /> : <Main />}</div>;
+  return <div>{isLoad === true ? <Loading /> : <Main />}</div>;
 };
 
 export default App;

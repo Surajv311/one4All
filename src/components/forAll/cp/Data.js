@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Google Hashcode ",
@@ -39,3 +39,5 @@ export default [
     info: "It has a design track and a programming track for the tournament.",
   },
 ];
+
+export default data;

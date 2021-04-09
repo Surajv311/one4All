@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     title: "Linkedin Wintathon",
@@ -21,3 +21,4 @@ export default [
     info: "Winners get a chance to intern/full-time opportunity at Amex.",
   },
 ];
+export default data;
