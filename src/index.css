@@ -3,6 +3,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400&display=swap");
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -41,21 +43,25 @@ header h1 {
 /*  */
 
 .bottom {
-  background-color: black;
+  font-family: "Nunito", sans-serif;
   /* position: fixed;
   bottom: 0; */
   width: 100%;
   height: 30px; /* footer height*/
   background: rgb(199, 255, 238);
-  letter-spacing: 1px;
+  letter-spacing: 0.6px;
   color: rgb(0, 0, 0);
   text-align: center;
   font-size: 15px;
-
   margin-top: auto;
+  padding-top: 4px;
 }
 
 .bottom a {
+  color: rgb(115, 0, 209);
+  font-weight: 300;
+}
+.bottom a:hover {
   color: rgb(86, 0, 143);
   font-weight: 300;
 }
