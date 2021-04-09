@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400&display=swap");
+
+.class_robo {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.6px;
+}
+/* 
+.class_osw {
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 0.6px;
+} */
+
+.class_nun {
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 0.6px;
+}
+
+.head {
+  font-family: "Nunito", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.6px;
+}
+
+.para {
+  font-family: "Nunito", sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 0.6px;
+  padding-bottom: 10px;
+}
+
+.htag {
+  font-family: "Nunito", sans-serif;
+  font-size: 23px;
+  letter-spacing: 0.6px;
+}
