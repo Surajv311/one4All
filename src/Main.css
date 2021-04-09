@@ -41,12 +41,12 @@
   border-radius: 50px;
 }
 .horizontal_rule_end {
-  width: 80%;
+  width: 75%;
   display: block;
   height: 6px;
-  background-color: #380066;
+  background-color: rgb(91, 236, 176);
   margin: 30px auto 30px auto;
-  border-radius: 60%;
+  border-radius: 50px;
 }
 
 .thick_horizontal_rule {
