@@ -19,7 +19,7 @@ const data = [
     link:
       "https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/",
     info:
-      "Applications usually open in March for APAC region. Deserving female candidates in their freshmen/sophomore year are awarded grants.",
+      "Applications usually open in March for APAC region. Deserving candidates in their first/second year are awarded grants.",
   },
   {
     id: 4,

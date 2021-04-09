@@ -11,14 +11,14 @@ const data = [
     link:
       "https://careers.jpmorgan.com/US/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India",
     info:
-      " The initial screening round is a coding round followed by a hackathon. Applications usually open in Feb for APAC region.",
+      " Initial screening is a coding round followed by a hackathon. Applications usually open in Feb for APAC region.",
   },
   {
     id: 3,
     title: "Smart India Hackathon ",
     link: "https://www.sih.gov.in/",
     info:
-      "The hackathon has two editions- software and hardware. It covers a wide variety of themes on which one can build innovative projects.",
+      "It has 2 editions- software and hardware & covers a wide variety of themes to build projects.",
   },
   {
     id: 4,

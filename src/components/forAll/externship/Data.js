@@ -1,10 +1,10 @@
 const data = [
   {
     id: 1,
-    title: "Major League Hacking (MLH) Externship ",
+    title: "MLH Externship ",
     link: "https://fellowship.mlh.io/programs/externship",
     info:
-      "Applications usually open twice a year for Summer and Spring. High School/Bootcamp/Non-Traditional students can apply. Limited number of non-student professionals are also selected.",
+      "Applications usually open twice a year for Summer and Spring. Students (& limited number of non-student professionals) are selected.",
   },
   {
     id: 2,

@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    title: "Microsoft Learn Student Ambassador (formerly MSP)",
+    title: "Microsoft Learn Student Ambassador",
     link: "https://studentambassadors.microsoft.com/",
     info:
       "Students in any year of their undergrad course can apply. Applications are open throughout the year.",

@@ -4,14 +4,14 @@ const data = [
     title: "Google STEP Internship ",
     link: "https://buildyourfuture.withgoogle.com/programs/step/",
     info:
-      " Get a chance to intern at Google. The opportunity is only for first and second year undergraduate students. Google India STEP intern applications usually open in November. ",
+      "  A chance to intern at Google. It's only for first and second year undergrad students. Google India STEP intern applications usually open in November. ",
   },
   {
     id: 2,
     title: " Palantir Technology Scholarship",
     link: "https://www.palantir.com/students/scholarship/",
     info:
-      "  It awards grants to students to support their education. The application for the Global Impact Scholarship (one of the four scholarships that Palantir offers) usually open in March.",
+      " It awards grants to students to support their education. Application usually opens in March.",
   },
   {
     id: 3,
@@ -24,15 +24,14 @@ const data = [
     id: 4,
     title: " Kaggle Competitions ",
     link: "https://www.kaggle.com/",
-    info:
-      "It hosts tons of Data Science competitions every month. Data Science Enthusiasts can surely check this out.",
+    info: "It hosts tons of Data Science competitions every month.",
   },
   {
     id: 5,
     title: "  Codechef's Go For Gold initiative  ",
     link: "https://www.codechef.com/goforgold",
     info:
-      "Cash prize will be awarded to any Indian team that finishes higher at the ICPC than any other Indian team has in the history of the contest. Current world rank to beat (as of Mar. 2021) : 18.",
+      "Cash prize will be awarded to any Indian team that secures a world rank lower than (current best) 18 in ICPC. ",
   },
   {
     id: 6,
@@ -53,7 +52,7 @@ const data = [
     title: " Samsung PRISM Programme ",
     link: "https://www.samsungprism.com/",
     info:
-      "Student and Professor form a team to work on real-world projects assigned by Samsung (Bengaluru) and also interact with Samsung’s top technical experts throughout the programme.",
+      "Student and Professor form a team to work on real-world projects assigned by Samsung (Bengaluru). Also get to interact with industry mentors.",
   },
   {
     id: 9,
@@ -62,7 +61,7 @@ const data = [
     link:
       "https://www.google.com/grants/get-help/nonprofit-marketing-immersion/",
     info:
-      "A great challenge for those interested in digital marketing. The applications are opened round the year.",
+      "A challenge for those interested in digital marketing. The applications are opened round the year.",
   },
   {
     id: 10,
