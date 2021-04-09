@@ -38,7 +38,23 @@
   color: rgb(255, 255, 255);
   padding-bottom: 12px;
 }
-
+.alignp_bottom {
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 0.6px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 18px;
+  color: black;
+  padding-bottom: 12px;
+}
+.alignp_bottom a {
+  color: blue;
+}
+.alignp_bottom a:hover {
+  color: rgb(0, 0, 170);
+}
 a {
   color: rgb(160, 255, 207);
 }
@@ -49,7 +65,7 @@ a:hover {
   color: blue;
 }
 .changeColor a:hover {
-  color: rgb(0, 0, 189);
+  color: rgb(0, 0, 170);
 }
 
 /*
