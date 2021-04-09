@@ -20,6 +20,7 @@ import Diversity_w from "./components/forWomen/diversityhire/Table";
 import Hackathon_w from "./components/forWomen/hackathoncontests/Table";
 import Programming_w from "./components/forWomen/programmingcontests/Table";
 import Resources from "./components/resourcesforAll/Table";
+import Scrollup from "./components/Scrollup";
 
 function Main() {
   return (
@@ -73,6 +74,7 @@ function Main() {
       <BreakLine />
       <LineLong />
       {/* <BreakLine /> */}
+      <Scrollup />
       <Footer />
     </div>
   );
