@@ -35,7 +35,7 @@ const columns = [
 const customStyles = {
   rows: {
     style: {
-      minHeight: "80px", // size changed...
+      minHeight: "75px", // size changed...
       fontSize: "16px",
     },
   },

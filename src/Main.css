@@ -40,6 +40,14 @@
   margin: 30px auto 30px auto;
   border-radius: 50px;
 }
+.horizontal_rule_end {
+  width: 100%;
+  display: block;
+  height: 6px;
+  background-color: #380066;
+  margin: 30px auto 30px auto;
+  border-radius: 60%;
+}
 
 .thick_horizontal_rule {
   width: 80%;

@@ -5,6 +5,7 @@ import Intro from "./components/Intro";
 import Ribbon from "./components/Ribbon";
 import Line from "./components/Line.js";
 import LineThick from "./components/LineThick.js";
+import LineLong from "./components/LineLong.js";
 import BreakLine from "./components/BreakLine.js";
 import TableCampusExp from "./components/forAll/campusexp/Table";
 import Cpc from "./components/forAll/cp/Table";
@@ -69,9 +70,9 @@ function Main() {
       </h1>
       <BreakLine />
       <Resources />
-
-      <LineThick />
       <BreakLine />
+      <LineLong />
+      {/* <BreakLine /> */}
       <Footer />
     </div>
   );
