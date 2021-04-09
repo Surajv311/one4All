@@ -56,8 +56,7 @@ const data = [
   },
   {
     id: 9,
-    title:
-      "  Google Nonprofit Marketing Immersion (formerly Google Ad Grants Challenge) ",
+    title: " Google Nonprofit Marketing Immersion ",
     link:
       "https://www.google.com/grants/get-help/nonprofit-marketing-immersion/",
     info:
