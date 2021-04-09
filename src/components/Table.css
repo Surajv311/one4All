@@ -7,12 +7,14 @@
   margin-top: 10px;
   width: 75%;
   text-align: center;
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 0.6px;
 }
 
 .alignset {
   text-align: center;
   font-weight: bold;
-  padding-top: 20px;
+  padding-top: 10px;
   margin-left: 5%;
   margin-right: 5%;
   font-size: 20px;
@@ -106,4 +108,8 @@ a:hover {
   font-family: "Nunito", sans-serif;
   font-size: 23px;
   letter-spacing: 0.6px;
+} */
+
+/* .custweight .rdt_TableHeader {
+  font-size: 300px;
 } */
