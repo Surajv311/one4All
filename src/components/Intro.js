@@ -1,17 +1,14 @@
 import React from "react";
 import "../index.css";
+import "../fonts.css";
 
 const Intro = () => {
   return (
-    <div className="intro font-serif">
-      Hello, Thanks for visiting! This site consists a list of good student
-      opportunities and resources (for developers and programmers) that the
-      contributors found mining through the web. It basically has 3 sections.
-      The first lists out the <em>opportunities for everyone</em>, then{" "}
-      <em>opportunities exclusively for women</em> and lastly,{" "}
-      <em>resources</em>. You can learn and upskill yourself by associating with
-      them. Feel free to fork and contribute to this project. <br></br>
-      (PS: If you find this useful, do consider giving it a ⭐!)
+    <div className="intro class_nun">
+      Looking for resources? roadmaps? opportunities? Welcome to
+      <strong> oneForAll</strong>. One place for everything. The site consists a
+      list of good student opportunities and resources (for developers and
+      programmers).
     </div>
   );
 };
