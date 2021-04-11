@@ -1,21 +1,20 @@
 import React from "react";
-
+import GithubCorner from "react-github-corner";
 const Ribbon = () => {
+  const size = 90;
+  const direction = "right";
+  const octoColor = "#ffffff";
+  const bannerColor = "#363636";
+
   return (
     <div>
-      <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css"
+      <GithubCorner
+        href="https://github.com/Surajv311/oneForAll_web"
+        size={size}
+        direction={direction}
+        octoColor={octoColor}
+        bannerColor={bannerColor}
       />
-
-      <a
-        class="github-fork-ribbon"
-        href="https://github.com/Surajv311/oneForAll"
-        data-ribbon="Fork me on GitHub"
-        title="Fork me on GitHub"
-      >
-        Fork me on GitHub
-      </a>
     </div>
   );
 };
