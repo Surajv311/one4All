@@ -27,7 +27,7 @@ function Main() {
   return (
     <div className="App">
       <header>
-        <h1 className="head">oneForAll</h1>
+        <h1 className="head">one4All</h1>
         <p className="para">One point for all resources & opportunities</p>
       </header>
       <Ribbon />
