@@ -9,7 +9,7 @@ const Ribbon = () => {
   return (
     <div>
       <GithubCorner
-        href="https://github.com/Surajv311/oneForAll_web"
+        href="https://github.com/Surajv311/one4All"
         size={size}
         direction={direction}
         octoColor={octoColor}
