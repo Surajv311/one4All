@@ -67,7 +67,7 @@ function Table() {
     <div className="table">
       <Card>
         <div className="divcolor">
-          <h1 class="alignset">Competitive Programming Competitions</h1>
+          <h1 class="alignset">Competitive Programming Contests</h1>
 
           <p class="alignp">
             Some useful links to practice and learn CP : <br></br>

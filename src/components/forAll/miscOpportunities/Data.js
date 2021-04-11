@@ -22,9 +22,9 @@ const data = [
   },
   {
     id: 4,
-    title: " Kaggle Competitions ",
+    title: " Kaggle Contests ",
     link: "https://www.kaggle.com/",
-    info: "It hosts tons of Data Science competitions every month.",
+    info: "It hosts tons of Data Science contests every month.",
   },
   {
     id: 5,
