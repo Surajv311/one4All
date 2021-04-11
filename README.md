@@ -305,7 +305,8 @@ Some useful links to practice and learn CP: <br>
 
 The code in this repository is under an open-source license. You are free to use the code in this repository. But kindly **do not** reproduce the same repository elsewhere with the same content. <br>
 Apart from that, special thanks to [Shiv Raj Yadav](https://www.instagram.com/_gaara_yuzawa/?r=nametag) for suggesting some good UI improvements in the [one4all](https://one4all.netlify.app/) website. <br>
-*Lastly, I hope you find this repository useful*.
+*Lastly, I hope you found this repository useful*. <br>
+*Show some ❤ by ⭐ this repository. Let's grow together :)*
 
 -------------------
 <br>
