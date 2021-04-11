@@ -67,7 +67,7 @@ function Table() {
     <div className="table">
       <Card>
         <div className="divcolor">
-          <h1 class="alignset"> Research Scholarships/Opportunities</h1>
+          <h1 class="alignset"> Research Scholarships</h1>
         </div>
         <DataTable
           columns={columns}

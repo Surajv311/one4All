@@ -16,7 +16,7 @@ const Links = (e) => (
 
 const columns = [
   {
-    name: <strong>Name</strong>,
+    name: <strong>Type</strong>,
     selector: "title",
     wrap: true,
     center: 1,

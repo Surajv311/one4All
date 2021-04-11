@@ -67,7 +67,7 @@ function Table() {
     <div className="table">
       <Card>
         <div className="divcolor">
-          <h1 class="alignset"> Developer Contests/Hackathons</h1>
+          <h1 class="alignset">Hackathons</h1>
 
           <p class="alignp">
             Some useful links to search for hackathons around you:
