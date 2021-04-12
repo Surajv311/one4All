@@ -23,7 +23,7 @@ To set up the project environment locally, head over to [`environment setup`](./
 ### Table of contents:
 <br>
 
-#### Opportunities **for everyone**
+#### Opportunities <ins>**for everyone**</ins>
 - [Hackathons](#hackathons)
 - [Campus Ambassador Opportunities](#campus-ambassador-opportunities)
 - [Competitive Programming Contests](#competitive-programming-contests)
@@ -32,7 +32,7 @@ To set up the project environment locally, head over to [`environment setup`](./
 - [Open Source Programs](#open-source-programs)
 - [Miscellaneous Opportunities](#miscellaneous-opportunities)
 
-#### Opportunities **exclusively for women**
+#### Opportunities <ins>**exclusively for women**</ins>
 - [Scholarship Programs](#scholarship-programs)
 - [Diversity Hiring Programs](#diversity-hiring-programs)
 - [Mentorship Programs](#mentorship-programs)
