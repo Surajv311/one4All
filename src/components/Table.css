@@ -103,30 +103,4 @@ a:hover {
   font-family: "Nunito", sans-serif;
   letter-spacing: 0.6px;
 }
-
-.head {
-  font-family: "Nunito", sans-serif;
-  font-size: 40px;
-  font-weight: bold;
-  text-align: center;
-  letter-spacing: 0.6px;
-}
-
-.para {
-  font-family: "Nunito", sans-serif;
-  color: rgb(255, 255, 255);
-  text-align: center;
-  font-size: 18px;
-  letter-spacing: 0.6px;
-  padding-bottom: 10px;
-}
-
-.htag {
-  font-family: "Nunito", sans-serif;
-  font-size: 23px;
-  letter-spacing: 0.6px;
-} */
-
-/* .custweight .rdt_TableHeader {
-  font-size: 300px;
-} */
+*/
