@@ -1,11 +1,11 @@
 import React from "react";
 import DataTable from "react-data-table-component";
 import Card from "@material-ui/core/Card";
-import data from "./Data";
+import { campusExpertData } from "components/Data";
 // import "../../Table.css";
 import "components/Table.css"; //absolute import..., jsconfig.json,...
 
-const all_data = data.map((e) => ({
+const all_data = campusExpertData.map((e) => ({
   ...e,
 }));
 

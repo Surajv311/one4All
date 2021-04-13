@@ -1,10 +1,10 @@
 import React from "react";
 import DataTable from "react-data-table-component";
 import Card from "@material-ui/core/Card";
-import data from "./Data";
+import { hackathonsWomenData } from "components/Data";
 import "components/Table.css";
 
-const all_data = data.map((e) => ({
+const all_data = hackathonsWomenData.map((e) => ({
   ...e,
 }));
 
