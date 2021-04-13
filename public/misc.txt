@@ -55,6 +55,7 @@ https://github.com/Uncodedtech/design-resources-for-developers
 * [📃 A list of practical projects that anyone can solve in any programming language.](https://github.com/Uncodedtech/Projects)
 * [500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/Uncodedtech/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 * [A curated list of project tutorials for project-based learning.](https://github.com/Uncodedtech/projectlearn-project-based-learning)
+* [Data Science Articles & Projects](https://github.com/Uncodedtech/Data-science)
 
 ----------------------------------------------
 
@@ -79,20 +80,34 @@ https://github.com/Uncodedtech/design-resources-for-developers
 
 > **This repo includes links to important repositories holding different developer roadmaps and resources.** 
 
+### Roadmaps
+
 * [View roadmaps about developer roles to help you learn](https://github.com/Uncodedtech/awesome-roadmaps)
-* [DevOps resources](https://github.com/Uncodedtech/devops-resources)
-* [📝 An awesome Data Science repository to learn and apply for real world problems](https://github.com/Uncodedtech/awesome-datascience)
-* [Machine learning List of all the lessons learned, best practices...](https://github.com/Uncodedtech/Machine-Learning-Links-And-Lessons-Learned)
-* [Flutter](https://github.com/Uncodedtech/awesome-flutter)
-* [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
+* [A complete computer science study plan to become a software engineer.](https://github.com/Uncodedtech/coding-interview-university#coding-question-practice)
+
+------------------------------------------------------------------
+
+### Resources
+
 * [An interactive git visualization to challenge and educate!](https://github.com/Uncodedtech/learnGitBranching)
 * [📙 Amazon Web Services — a practical guide](https://github.com/Uncodedtech/og-aws)
-* [How to systematically secure anything: a repository about security engineering](https://github.com/Uncodedtech/how-to-secure-anything)
-* [Web Security Basics](https://github.com/Uncodedtech/web-security-basics)
-* [A complete computer science study plan to become a software engineer.](https://github.com/Uncodedtech/coding-interview-university#coding-question-practice)
 * [30 seconds of code](https://github.com/Uncodedtech/30-seconds-of-code)
 * [You Dont Know JS](https://github.com/Uncodedtech/You-Dont-Know-JS)
 * [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
+* [How to systematically secure anything: a repository about security engineering](https://github.com/Uncodedtech/how-to-secure-anything)
+* [Web Security Basics](https://github.com/Uncodedtech/web-security-basics)
+* [DevOps resources](https://github.com/Uncodedtech/devops-resources)
+* [📝 An awesome Data Science repository to learn and apply for real world problems](https://github.com/Uncodedtech/awesome-datascience)
+* [Machine learning List of all the lessons learned, best practices...](https://github.com/Uncodedtech/Machine-Learning-Links-And-Lessons-Learned)
+* [Incredible Pytorch](https://github.com/Uncodedtech/the-incredible-pytorch)
+* [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
+* [Flutter Resources](https://github.com/Uncodedtech/awesome-flutter)
+* [Security tester's companion](https://github.com/Uncodedtech/SecLists)
+* [Resources for bug bounty hunters](https://github.com/Uncodedtech/Resources-for-Beginner-Bug-Bounty-Hunters)
+* [List of useful payloads & bypass for web app security](https://github.com/Uncodedtech/PayloadsAllTheThings)
+
+------------------------------------------------------------------
+
 
 
 ------------------------------------------------------------------
@@ -135,7 +150,6 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://github.com/Uncodedtech/Amazing-Python-Scripts)
 * [🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo](https://github.com/Uncodedtech/machine-learning-experiments)
 * [Automatically sync your leetcode solutions to your github...](https://github.com/Uncodedtech/LeetHub)
-* [React Suite, react components ](https://github.com/Uncodedtech/rsuite)
 * [Github metrics](https://github.com/Uncodedtech/metrics)
 * [Bringing Old Photo Back to Life (CVPR 2020 oral)](https://github.com/Uncodedtech/Bringing-Old-Photos-Back-to-Life)
 * [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/Uncodedtech/Real-Time-Voice-Cloning)
@@ -159,19 +173,20 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
 * [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
 * [tldr-cheatsheet for console commands](https://github.com/Uncodedtech/tldr)
+* [Bug bounty programs](https://github.com/Uncodedtech/public-bugbounty-programs)
+* [Bug bounty writeup & programs](https://github.com/Uncodedtech/awesome-bug-bounty)
 
 ---------------------------------------------
 
-### Other useful links/resources/youtube channels...
+### Other useful links...
 
 * [🔗 Some useful websites for programmers.](https://github.com/Uncodedtech/Best-websites-a-programmer-should-visit)
 * [A curated list of awesome warez and piracy links](https://github.com/Uncodedtech/awesome-piracy)
 * [A curated list of awesome C++ (or C) frameworks, libraries, resources...](https://github.com/Uncodedtech/awesome-cpp)
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
 
-
-
 -------------------------------------------------------
+
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
