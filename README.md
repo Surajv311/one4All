@@ -20,7 +20,6 @@ To set up the project environment locally, head over to [`environment setup`](./
 ------------------------------------
 
 ### Table of contents:
-<br>
 
 #### Opportunities <ins>**for everyone**</ins>
 - [Hackathons](#hackathons)
