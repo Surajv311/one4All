@@ -53,7 +53,7 @@ function Main() {
       <Miscopp />
       {/* <LineThick /> */}
       <LineLong />
-      <h1 class="font-serif htag">
+      <h1 class="htag">
         Opportunities <strong>exclusively for women</strong>
       </h1>
       <BreakLine />
@@ -69,7 +69,7 @@ function Main() {
       <HackathonW />
       {/* <LineThick /> */}
       <LineLong />
-      <h1 class="font-serif htag">
+      <h1 class="htag">
         <strong>Resources</strong>
       </h1>
       <BreakLine />
