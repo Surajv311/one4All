@@ -18,7 +18,6 @@ Head over to [`contributing guidelines`](./contributing.md) before sending a PR.
 To set up the project environment locally, head over to [`environment setup`](./envsetup.md).
 
 ------------------------------------
-<br>
 
 ### Table of contents:
 <br>
