@@ -3,6 +3,7 @@ import "./fonts.css";
 import React from "react";
 import Footer from "./components/Footer";
 import Intro from "./components/Intro";
+import IntroChoices from "./components/IntroChoices";
 import Ribbon from "./components/Ribbon";
 import Line from "./components/Line.js";
 // import LineThick from "./components/LineThick.js";
@@ -33,6 +34,7 @@ function Main() {
       <Ribbon />
       <Intro />
       <BreakLine />
+      <IntroChoices />
       <Line />
       <h1 class="htag">
         Opportunities <strong>for everyone</strong>
