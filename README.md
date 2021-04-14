@@ -55,7 +55,7 @@ To set up the project environment locally, head over to [`environment setup`](./
 | Name  | Link | Info | 
 | ------------- | ------------- | ------------- |
 |Microsoft Imagine Cup | [Visit the page](https://imaginecup.microsoft.com/en-us/Events?id=0)  | (Check the website) |
-|JP Morgan Code for Good | [Visit the page](https://careers.jpmorgan.com/US/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India)  | Initial screening is a coding round followed by a hackathon. Applications usually open in Feb for APAC region. |
+|JP Morgan Code for Good | [Visit the page](https://careers.jpmorgan.com/US/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India)  | Initial screening is a coding round followed by a hackathon. Applications usually open in Feb for the APAC region. |
 |Smart India Hackathon | [Visit the page](https://www.sih.gov.in/)  | It has 2 editions- software and hardware & covers a wide variety of themes to build projects. |
 |Pennapps Hackathon | [Visit the page](https://pennapps.com/)  | (Check the website) |
 |Hackmit | [Visit the page](https://hackmit.org/)  | (Check the website) |
@@ -77,7 +77,7 @@ Some useful links to search for hackathons around you: <br>
 | ------------- | ------------- | ------------- |
 |Microsoft Learn Student Ambassador | [Visit the page](https://studentambassadors.microsoft.com/)  | Students can apply in any year of their degree course. Applications open throughout the year. |
 | Github Campus Expert   | [Visit the page](https://apply.githubcampus.expert/)  | Applications open twice a year in Feb and August. |
-| GeeksForGeeks Campus Ambassador  | [Visit the page](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)  | Sophomore and Prefinal year students can apply for the program. Applications open in around May/June. |
+| GeeksForGeeks Campus Ambassador  | [Visit the page](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)  | Sophomore and Prefinal year students can apply for the program. Applications open around May/June. |
 | HackerEarth University Ambassador Program  | [Visit the page](https://www.hackerearth.com/university/)  | (Check the website for updates)  |
 | Hackerrank Campus Ambassador  |[Visit the page](https://www.hackerrank.com/campus-ambassador-program)  | (Check the website for updates)  |
 | Cisco Devnet Campus Ambassador| [Visit the page](https://developer.cisco.com/site/student/)  | (Check the website for updates)  | 
@@ -95,11 +95,11 @@ Some useful links to search for hackathons around you: <br>
 ### Competitive Programming Contests:
 | Name  | Link | Info | 
 | ------------- | ------------- | ------------- |
-|Google Hashcode  | [Visit the page](https://codingcompetitions.withgoogle.com/hashcode)  | Applications usually open in the month of January. It's a team based competitive programming competition. |
-|Google code jam | [Visit the page](https://codingcompetitions.withgoogle.com/codejam)  |  Applications usually open in the month of February. |
+|Google Hashcode  | [Visit the page](https://codingcompetitions.withgoogle.com/hashcode)  | Applications usually open in January. It's a team-based competitive programming competition. |
+|Google code jam | [Visit the page](https://codingcompetitions.withgoogle.com/codejam)  |  Applications usually open in February. |
 |Google Kickstart | [Visit the page](https://codingcompetitions.withgoogle.com/kickstart)  | It's hosted 8 times a year and the registration for the first competition (Round A) usually begins in February.|
-|Facebook Hackercup | [Visit the page](https://www.facebook.com/codingcompetitions/hacker-cup)  | Applications usually open in the month of July.|
-|ACM ICPC| [Visit the page](https://icpc.global/)  | It's a team based competition. Registrations usually start in winter. The dates for different regions for selections may vary.|
+|Facebook Hackercup | [Visit the page](https://www.facebook.com/codingcompetitions/hacker-cup)  | Applications usually open in July.|
+|ACM ICPC| [Visit the page](https://icpc.global/)  | It's a team-based competition. Registrations usually start in winter. The dates for different regions for selections may vary.|
 |Topcoder Open| [Visit the page](https://www.topcoder.com/community/member-programs/topcoder-open)  | It has a design track and a programming track for the tournament. |
 
 Some useful links to practice and learn CP: <br>
@@ -116,7 +116,7 @@ Some useful links to practice and learn CP: <br>
 ### Externship Opportunities: 
 | Name  | Link | Info | 
 | ------------- | ------------- | ------------- |
-| MLH Externship  | [Visit the page](https://fellowship.mlh.io/programs/externship)  | Applications usually open twice a year for Summer and Spring. Students (& limited number of non-student professionals) are selected. |
+| MLH Externship  | [Visit the page](https://fellowship.mlh.io/programs/externship)  | Applications usually open twice a year for Summer and Spring. Students (& a limited number of non-student professionals) are selected. |
 | Crio Winter of Doing | [Visit the page](https://www.crio.do/crio-winter-of-doing/)  | Working professionals or student developers in their final year of engineering can go for it. |
 | Github Externship | [Visit the page](https://github-externships.github.io/externship/)  | The GitHub Externship is a 90 days fellowship program for pre-final year students of GitHub Campus Partner schools. |
 
@@ -157,16 +157,16 @@ Some useful links to practice and learn CP: <br>
 
 | Name  | Link | Info | 
 | ------------- | ------------- | ------------- |
-| Google STEP Internship | [Visit the page](https://buildyourfuture.withgoogle.com/programs/step/) | A chance to intern at Google. It's only for first and second year undergrad students. Google India STEP intern applications usually open in November.  |
-| Palantir Technology (Global Impact) Scholarship | [Visit the page](https://www.palantir.com/students/scholarship/)  | It awards grants to students to support their education. Application usually opens in March. |
-| Ethereum India Scholarship | [Visit the page](https://eif2.devfolio.co/) | It's an 8-week mentor led program for those interested to dive deep into the ethereum ecosystem. |
+| Google STEP Internship | [Visit the page](https://buildyourfuture.withgoogle.com/programs/step/) | A chance to intern at Google. It's only for first and second-year undergrad students. Google India STEP intern applications usually open in November.  |
+| Palantir Technology (Global Impact) Scholarship | [Visit the page](https://www.palantir.com/students/scholarship/)  | It awards grants to students to support their education. The application usually opens in March. |
+| Ethereum India Scholarship | [Visit the page](https://eif2.devfolio.co/) | It's an 8-week mentor-led program for those interested to dive deep into the ethereum ecosystem. |
 | Kaggle Contests | [Visit the page](https://www.kaggle.com/) | It hosts tons of Data Science contests every month.|
 | Codechef's Go For Gold initiative | [Visit the page](https://www.codechef.com/goforgold)  | Cash prize will be awarded to any Indian team that secures a world rank lower than (current best) 18 in ICPC. |
-| Udacity Scholarship | [Visit the page](https://www.udacity.com/scholarships) | It offers nanodegree programs to deserving candidates. |
-| Google Venkat Scholarship | [Visit the page](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/) | Selected students will receive a financial grant towards tuition expenses, and will be invited to visit the YouTube headquarters in USA.  |
-| Samsung PRISM Programme | [Visit the page](https://www.samsungprism.com/) | Student and Professor form a team to work on real-world projects assigned by Samsung (Bengaluru). Also get to interact with industry mentors. |
-| Google Nonprofit Marketing Immersion | [Visit the page](https://www.google.com/grants/get-help/nonprofit-marketing-immersion/) | A challenge for those interested in digital marketing. The applications are opened round the year. |
-| NASA Space Apps Hackathon | [Visit the page](https://www.spaceappschallenge.org/) | Space Apps inspires communities to come together, think intensely, and create solutions to important problems. Event usually happens in Sept-Oct. |
+| Udacity Scholarship | [Visit the page](https://www.udacity.com/scholarships) | It offers nano degree programs to deserving candidates. |
+| Google Venkat Scholarship | [Visit the page](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/) | Selected students will receive a financial grant towards tuition expenses and will be invited to visit the YouTube headquarters in the USA.  |
+| Samsung PRISM Programme | [Visit the page](https://www.samsungprism.com/) | Student and Professor form a team to work on real-world projects assigned by Samsung (Bengaluru). Also, get to interact with industry mentors. |
+| Google Nonprofit Marketing Immersion | [Visit the page](https://www.google.com/grants/get-help/nonprofit-marketing-immersion/) | A challenge for those interested in digital marketing. The applications are open throughout the year. |
+| NASA Space Apps Hackathon | [Visit the page](https://www.spaceappschallenge.org/) | Space Apps inspires communities to come together, think intensely, and create solutions to important problems. The event usually happens in Sept-Oct. |
 
 * Also check out [Scholarshiptrack](https://scholarshiptrack.org/ ) for more such opportunities.
 
@@ -186,11 +186,11 @@ Some useful links to practice and learn CP: <br>
 | Name  | Link | Info | 
 | ------------- | ------------- | ------------- |
 |Nutanix Heart Women in Tech | [Visit the page](https://www.nutanix.com/scholarships)  | Female students from the countries (US, France, Netherland, India, Serbia), are awarded grants for their tuition fees. |
-|D.E Shaw DESIS Ascend Fellowship | [Visit the page](https://fellowships.deshaw.com/)  | You'll be given scholarship amount if selected. |
-|Generation Google Scholarship | [Visit the page](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)  | Applications usually open in March for APAC region. Deserving candidates in their first/second year are awarded grants. |
+|D.E Shaw DESIS Ascend Fellowship | [Visit the page](https://fellowships.deshaw.com/)  | You'll be given a scholarship amount if selected. |
+|Generation Google Scholarship | [Visit the page](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)  | Applications usually open in March for the APAC region. Deserving candidates in their first/second year are awarded grants. |
 | Adobe India Women-in-Technology Scholarship | [Visit the page](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)  | Applications usually open in August. |
 | Google Women Techmakers Engineering Fellows (WTEF) | [Visit the page](https://we.talentsprint.com/)  | Applications usually open in March. Deserving female candidates in their freshmen year are awarded grants and mentorship. |
-|Anitab.Org Grace Hopper Celebration | [Visit the page](https://ghc.anitab.org/attend/scholarships/academics/)  | If selected you'll get a sponsored 3 day Trip to USA to attend GHC and also career opportunities at Tech giants. |
+|Anitab.Org Grace Hopper Celebration | [Visit the page](https://ghc.anitab.org/attend/scholarships/academics/)  | If selected you'll get a sponsored 3 day trip to the USA to attend GHC and also career opportunities at Tech giants. |
 
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
@@ -223,7 +223,7 @@ Some useful links to practice and learn CP: <br>
 | twitter developHER | [Visit the page](https://developher2020india.splashthat.com/)  | Applications usually open in July. A two-day program for sophomore and prefinal year women students with lots of learning events. |
 | Microsoft Codess India | [Visit the page](https://careers.microsoft.com/students/us/en/ind-programs )  | (Check the website) |
 | Intuit Augment Program | [Visit the page](https://www.surveymonkey.com/r/INTUIT_2020) | This mentorship program is designed to make women industry-ready. Applications usually open in January. |
-| Goldman Sachs WeTech Scholarship | [Visit the page](https://www.iie.org/WeTech-GoldmanSachs)  | Deserving candidates chosen from selected universities. Applications usually open in November. |
+| Goldman Sachs WeTech Scholarship | [Visit the page](https://www.iie.org/WeTech-GoldmanSachs)  | Deserving candidates are chosen from selected universities. Applications usually open in November. |
 | Google #IamRemarkable Facilitator | [Visit the page](https://iamremarkable.withgoogle.com/) | (Check the website) |
 |Women who code Mentorship | [Visit the page](https://www.womenwhocode.com/)  | (Check the website) |
 
@@ -255,7 +255,7 @@ Some useful links to practice and learn CP: <br>
 | Name  | Link | Info | 
 | ------------- | ------------- | ------------- |
 | Linkedin Wintathon | [Visit the page](https://wintathon2020.splashthat.com/)  | All prefinal & final year BTech/BE Women Students or a 1st / 2nd Year M.Tech Women Students can apply. |
-| Adobe CoDiva | [Visit the page](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)  | Winners get prizes and a chance to work at Adobe. Open to prefinal and final year candidates. |
+| Adobe CoDiva | [Visit the page](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)  | Winners get prizes and a chance to work at Adobe. Open to prefinal and final-year candidates. |
 | American Express Makeathon | [Visit the page](https://american-express-makeathon-2021.hackerearth.com/ )  | Winners get a chance to intern/full-time opportunity at Amex. |
 
 <div align="right">
