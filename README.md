@@ -226,6 +226,7 @@ Some useful links to practice and learn CP: <br>
 | Goldman Sachs WeTech Scholarship | [Visit the page](https://www.iie.org/WeTech-GoldmanSachs)  | Deserving candidates are chosen from selected universities. Applications usually open in November. |
 | Google #IamRemarkable Facilitator | [Visit the page](https://iamremarkable.withgoogle.com/) | (Check the website) |
 |Women who code Mentorship | [Visit the page](https://www.womenwhocode.com/)  | (Check the website) |
+|Micron Global Women's Mentorship Program | [Visit the page](https://www.dieti.unina.it/images/opportunita/Micron_Global_Women_s_Mentorship_Program_2021.pdf)  | Applications usually open in March. |
 
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top

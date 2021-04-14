@@ -375,6 +375,13 @@ const mentorshipData = [
     link: "https://www.womenwhocode.com/",
     info: " (Check the website) ",
   },
+  {
+    id: 9,
+    title: "Micron Global Women's Mentorship Program ",
+    link:
+      "https://www.dieti.unina.it/images/opportunita/Micron_Global_Women_s_Mentorship_Program_2021.pdf",
+    info: " Applications usually open in March. ",
+  },
 ];
 
 const programmingWomenData = [
