@@ -20,7 +20,7 @@ const campusExpertData = [
     link:
       "https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/",
     info:
-      " Sophomore and Prefinal year students can apply. Applications open in around May/June. ",
+      " Sophomore and Prefinal year students can apply. Applications open around May/June. ",
   },
   {
     id: 4,
@@ -68,7 +68,7 @@ const cpData = [
     title: "Google Hashcode ",
     link: "https://codingcompetitions.withgoogle.com/hashcode",
     info:
-      "Applications usually open in the month of January. It's a team based competitive programming competition.",
+      "Applications usually open in January. It's a team-based competitive programming competition.",
   },
   {
     id: 2,
@@ -87,14 +87,14 @@ const cpData = [
     id: 4,
     title: "Facebook Hackercup",
     link: "https://www.facebook.com/codingcompetitions/hacker-cup",
-    info: "Applications usually open in the month of July.",
+    info: "Applications usually open in July.",
   },
   {
     id: 5,
     title: "ACM ICPC",
     link: "https://icpc.global/",
     info:
-      " It's a team based competition. Registrations usually start in winter. The dates for different regions for selections may vary.",
+      " It's a team-based competition. Registrations usually start in winter. The dates for different regions for selections may vary.",
   },
   {
     id: 6,
@@ -183,21 +183,21 @@ const miscData = [
     title: "Google STEP Internship ",
     link: "https://buildyourfuture.withgoogle.com/programs/step/",
     info:
-      "  A chance to intern at Google. It's only for first and second year undergrad students. Google India STEP intern applications usually open in November. ",
+      "  A chance to intern at Google. It's only for first and second-year undergrad students. Google India STEP intern applications usually open in November. ",
   },
   {
     id: 2,
     title: " Palantir Technology Scholarship",
     link: "https://www.palantir.com/students/scholarship/",
     info:
-      " It awards grants to students to support their education. Application usually opens in March.",
+      " It awards grants to students to support their education. The application usually opens in March.",
   },
   {
     id: 3,
     title: "Ethereum India Scholarship ",
     link: "https://eif2.devfolio.co/",
     info:
-      " It's an 8-week mentor led program for those interested to dive deep into the ethereum ecosystem. ",
+      " It's an 8-week mentor-led program for those interested to dive deep into the ethereum ecosystem. ",
   },
   {
     id: 4,
@@ -231,7 +231,7 @@ const miscData = [
     title: " Samsung PRISM Programme ",
     link: "https://www.samsungprism.com/",
     info:
-      "Student and Professor form a team to work on real-world projects assigned by Samsung (Bengaluru). Also get to interact with industry mentors.",
+      "Student and Professor form a team to work on real-world projects assigned by Samsung (Bengaluru). Also, get to interact with industry mentors.",
   },
   {
     id: 9,
@@ -246,7 +246,7 @@ const miscData = [
     title: "NASA Space Apps Hackathon",
     link: "https://www.spaceappschallenge.org/",
     info:
-      "Space Apps inspires communities to come together, think intensely, and create solutions to important problems. Event usually happens in Sept-Oct.",
+      "Space Apps inspires communities to come together, think intensely, and create solutions to important problems. The event usually happens in Sept-Oct.",
   },
 ];
 
@@ -360,7 +360,7 @@ const mentorshipData = [
     title: " Goldman Sachs WeTech Scholarship  ",
     link: "https://www.iie.org/WeTech-GoldmanSachs",
     info:
-      "Deserving candidates chosen from selected universities. Applications usually open in November.",
+      "Deserving candidates are chosen from selected universities. Applications usually open in November.",
   },
   {
     id: 7,
@@ -447,7 +447,7 @@ const scholarshipData = [
     title: "Anitab.Org Grace Hopper Celebration ",
     link: "https://ghc.anitab.org/attend/scholarships/academics/",
     info:
-      " If selected you'll get a sponsored 3 day Trip to USA to attend GHC and also career opportunities at Tech giants.",
+      " If selected you'll get a sponsored 3 day trip to the USA to attend GHC and also career opportunities at Tech giants.",
   },
 ];
 
