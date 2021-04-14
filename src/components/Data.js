@@ -110,7 +110,7 @@ const externshipData = [
     title: "MLH Externship ",
     link: "https://fellowship.mlh.io/programs/externship",
     info:
-      "Applications usually open twice a year for Summer and Spring. Students (& limited number of non-student professionals) are selected.",
+      "Applications usually open twice a year for Summer and Spring. Students (& a limited number of non-student professionals) are selected.",
   },
   {
     id: 2,
@@ -141,7 +141,7 @@ const hackathonsData = [
     link:
       "https://careers.jpmorgan.com/US/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India",
     info:
-      " Initial screening is a coding round followed by a hackathon. Applications usually open in Feb for APAC region.",
+      " Initial screening is a coding round followed by a hackathon. Applications usually open in Feb for the APAC region.",
   },
   {
     id: 3,
@@ -216,7 +216,7 @@ const miscData = [
     id: 6,
     title: " Udacity Scholarship ",
     link: "https://www.udacity.com/scholarships",
-    info: "It offers nanodegree programs to deserving candidates.",
+    info: "It offers nano degree programs to deserving candidates.",
   },
   {
     id: 7,
@@ -224,7 +224,7 @@ const miscData = [
     link:
       "https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/",
     info:
-      "Selected students will receive a financial grant towards tuition expenses, and will be invited to visit the YouTube headquarters in USA.",
+      "Selected students will receive a financial grant towards tuition expenses, and will be invited to visit the YouTube headquarters in the USA.",
   },
   {
     id: 8,
@@ -239,7 +239,7 @@ const miscData = [
     link:
       "https://www.google.com/grants/get-help/nonprofit-marketing-immersion/",
     info:
-      "A challenge for those interested in digital marketing. The applications are opened round the year.",
+      "A challenge for those interested in digital marketing. The applications are open throughout the year.",
   },
   {
     id: 10,
@@ -309,7 +309,7 @@ const hackathonsWomenData = [
     link:
       "https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html",
     info:
-      " Winners get prizes and a chance to work at Adobe. Open to prefinal and final year candidates.",
+      " Winners get prizes and a chance to work at Adobe. Open to prefinal and final-year candidates.",
   },
   {
     id: 3,
@@ -417,7 +417,7 @@ const scholarshipData = [
     id: 2,
     title: " D.E Shaw DESIS Ascend Fellowship",
     link: "https://fellowships.deshaw.com/",
-    info: "  You'll be given scholarship amount if selected.",
+    info: "  You'll be given a scholarship amount if selected.",
   },
 
   {
@@ -426,7 +426,7 @@ const scholarshipData = [
     link:
       "https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/",
     info:
-      "Applications usually open in March for APAC region. Deserving candidates in their first/second year are awarded grants.",
+      "Applications usually open in March for the APAC region. Deserving candidates in their first/second year are awarded grants.",
   },
   {
     id: 4,
