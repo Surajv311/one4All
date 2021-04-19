@@ -7,17 +7,19 @@
   ```
   git clone https://github.com/Surajv311/one4All.git
   ```
+  
 * Move into the ```one4all``` directory.
 * Install the dependencies by:
-```
-npm install
-```
+
+  ```
+  npm install
+  ```
 
 * Run this command to start the ReactJS project on ```http://localhost:3000/```.
-```
-npm start
-```
 
+  ```
+  npm start
+  ```
 -------------------
 
 
