@@ -287,6 +287,7 @@ https://github.com/Uncodedtech/design-resources-for-developers
 
 ### Others
 
+* [Read Research Papers (website)](https://myw3schools.github.io/) & you can also follow [manjunath5496](https://github.com/manjunath5496) (for research papers sources). 
 * [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
 <div align="right">
