@@ -9,3 +9,6 @@
 - For **Resources section**: Please send a PR to the corresponding repository linked to this repository. <br>
   Eg. If you have a resource that could be used for interview preparation then send a PR to the linked repo, which is [this](https://github.com/Uncodedtech/Interviewprep). 
 - For any other doubts, feel free to raise an issue. 
+
+
+------------------------------------
