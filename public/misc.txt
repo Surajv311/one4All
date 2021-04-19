@@ -32,6 +32,12 @@
 * [Backend dev- Interview Ques.](https://github.com/Uncodedtech/Back-End-Developer-Interview-Questions)
 
 ------------------------------------------------------------------
+
+### Others  
+
+* [Books/Courses/Guides/Practice/Questions etc... for interviews](https://github.com/Uncodedtech/interview)
+
+-----------------------------------------------
 -----------------------------------------------
 
 ### Maintainer
