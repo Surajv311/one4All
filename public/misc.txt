@@ -18,6 +18,8 @@
 * [A collection of algorithms and data structures - Java](https://github.com/Uncodedtech/Algorithms)
 * [📝 Algorithms and data structures implemented in - JavaScript](https://github.com/Uncodedtech/javascript-algorithms)
 * [Resources for Competitive Programming](https://github.com/Uncodedtech/Competitive-Programming-Resources)
+* [Leetcode premium questions- old](https://github.com/Uncodedtech/leetcode_company_wise_questions)
+* [Leetcode premium questions- new](https://github.com/Uncodedtech/Coding_Notes/tree/master/leetcode-categorized)
 
 ----------------------------------------------------
 
@@ -296,6 +298,8 @@ https://github.com/Uncodedtech/design-resources-for-developers
 * [Read Research Papers (website)](https://myw3schools.github.io/) & you can also follow [manjunath5496](https://github.com/manjunath5496) (for research papers sources). 
 * [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
+* [Patterns of Scalable & Reliable Large-Scale Systems](https://github.com/Uncodedtech/awesome-scalability)
+* [Quantum Machine Learning](https://github.com/Uncodedtech/awesome-quantum-machine-learning)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
@@ -388,6 +392,7 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [Super resolution images using deep learning](https://github.com/Uncodedtech/neural-enhance)
 * [API request builder](https://github.com/Uncodedtech/hoppscotch)
 * [Vivek's Ubuntu Portfolio](https://github.com/Uncodedtech/vivek9patel.github.io)
+* [App which corrects previous console command](https://github.com/Uncodedtech/thefuck)
 
 ---------------------------------------------
 
@@ -407,6 +412,7 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [Can include in head of your document](https://github.com/Uncodedtech/HEAD)
 * [Collection of design idioms/patterns in Py](https://github.com/Uncodedtech/python-patterns)
 * [Google's eng. practices](https://github.com/Uncodedtech/eng-practices)
+* [What happens when](https://github.com/Uncodedtech/what-happens-when)
 
 ---------------------------------------------
 
