@@ -38,6 +38,7 @@
 ### Others  
 
 * [Books/Courses/Guides/Practice/Questions etc... for interviews](https://github.com/Uncodedtech/interview)
+* [Tech. things a software developer should know...](https://github.com/Uncodedtech/every-programmer-should-know)
 
 -----------------------------------------------
 -----------------------------------------------
@@ -117,6 +118,7 @@ https://github.com/Uncodedtech/design-resources-for-developers
 * [A curated list of project tutorials for project-based learning.](https://github.com/Uncodedtech/projectlearn-project-based-learning)
 * [Data Science Articles & Projects](https://github.com/Uncodedtech/Data-science)
 * [Clone-wars: Open-source clones of popular sites](https://github.com/Uncodedtech/Clone-Wars)
+* [Curated list of project-based tutorials](https://github.com/Uncodedtech/project-based-learning)
 
 ------------------------------------------------------------------
 -----------------------------------------------
@@ -300,6 +302,7 @@ https://github.com/Uncodedtech/design-resources-for-developers
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
 * [Patterns of Scalable & Reliable Large-Scale Systems](https://github.com/Uncodedtech/awesome-scalability)
 * [Quantum Machine Learning](https://github.com/Uncodedtech/awesome-quantum-machine-learning)
+* [Software and architecture related design patterns](https://github.com/Uncodedtech/awesome-design-patterns)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
@@ -340,7 +343,7 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.](https://github.com/Uncodedtech/awesome-leading-and-managing)
 * [A curated collection of marketing articles & tools to grow your product](https://github.com/Uncodedtech/Marketing-for-Engineers)
 * [A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/Uncodedtech/awesome-cto)
-
+* [Pocket Marketing Tech List 🗂](https://github.com/Uncodedtech/pocket-marketing-tech-list)
 
 ------------------------------------------------------------------
 -----------------------------------------------
@@ -393,6 +396,9 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [API request builder](https://github.com/Uncodedtech/hoppscotch)
 * [Vivek's Ubuntu Portfolio](https://github.com/Uncodedtech/vivek9patel.github.io)
 * [App which corrects previous console command](https://github.com/Uncodedtech/thefuck)
+* [CSS-JS effects ~ (You don't need JS)](https://github.com/Uncodedtech/You-Dont-Need-JavaScript)
+* [Translate text to emoji](https://github.com/Uncodedtech/emoji-translate)
+* [Renovamen's MacOS Portfolio](https://github.com/Uncodedtech/playground-macos)
 
 ---------------------------------------------
 
@@ -413,6 +419,8 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [Collection of design idioms/patterns in Py](https://github.com/Uncodedtech/python-patterns)
 * [Google's eng. practices](https://github.com/Uncodedtech/eng-practices)
 * [What happens when](https://github.com/Uncodedtech/what-happens-when)
+* [Digital Gardening](https://github.com/Uncodedtech/digital-gardeners)
+* [CSS Pro tips](https://github.com/Uncodedtech/css-protips)
 
 ---------------------------------------------
 
@@ -422,6 +430,7 @@ https://github.com/Uncodedtech/awesome-cheatsheets
 * [A curated list of awesome warez and piracy links](https://github.com/Uncodedtech/awesome-piracy)
 * [A curated list of awesome C++ (or C) frameworks, libraries, resources...](https://github.com/Uncodedtech/awesome-cpp)
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
+* [Delightful Node.js packages and resources](https://github.com/Uncodedtech/awesome-nodejs)
 
 ------------------------------------------------------------------
 -----------------------------------------------
