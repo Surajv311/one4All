@@ -26,39 +26,39 @@ const campusExpertData = [
     id: 4,
     title: " HackerEarth University Ambassador Program",
     link: "https://www.hackerearth.com/university/",
-    info: "(Check the website for updates)",
+    info: " (Check the website)",
   },
   {
     id: 5,
     title: " Hackerrank Campus Ambassador  ",
     link: "https://www.hackerrank.com/campus-ambassador-program",
-    info: "(Check the website for updates)",
+    info: " Applications open around May/June.",
   },
   {
     id: 6,
     title: " Cisco Devnet Campus Ambassador ",
     link: "https://developer.cisco.com/site/student/",
-    info: "(Check the website for updates)",
+    info: " (Check the website)",
   },
   {
     id: 7,
     title: "Intel Software Innovator Program ",
     link:
       "https://devmesh.intel.com/member-programs/intel-software-innovator-program#:~:text=Intel%20Software%20Innovator%20Program%20The%20Intel%C2%AE%20Software%20Innovator,demonstration%20opportunities%20at%20industry%20events%20and%20developer%20gatherings.",
-    info: "(Check the website for updates)",
+    info: " (Check the website)",
   },
   {
     id: 8,
     title: " AWS Educate Student Ambassador ",
     link:
       "https://aws.amazon.com/education/awseducate/student-ambassador-program/",
-    info: "(Check the website for updates)",
+    info: " (Check the website)",
   },
   {
     id: 9,
     title: " Alexa student influencer ",
     link: "https://developer.amazon.com/en-IN/alexa/alexa-student-influencer",
-    info: "(Check the website for updates)",
+    info: " (Check the website)",
   },
 ];
 
@@ -74,7 +74,7 @@ const cpData = [
     id: 2,
     title: "Google code jam ",
     link: "https://codingcompetitions.withgoogle.com/codejam",
-    info: " Applications usually open in the month of February.",
+    info: " Applications usually open in February.",
   },
   {
     id: 3,
@@ -216,7 +216,7 @@ const miscData = [
     id: 6,
     title: " Udacity Scholarship ",
     link: "https://www.udacity.com/scholarships",
-    info: "It offers nano degree programs to deserving candidates.",
+    info: "It offers nano-degree programs to deserving candidates.",
   },
   {
     id: 7,
@@ -247,6 +247,14 @@ const miscData = [
     link: "https://www.spaceappschallenge.org/",
     info:
       "Space Apps inspires communities to come together, think intensely, and create solutions to important problems. The event usually happens in Sept-Oct.",
+  },
+
+  {
+    id: 11,
+    title: "Microsoft Engage Mentorship",
+    link: "https://careers.microsoft.com/us/en/job/1049887/Engage-Mentorship",
+    info:
+      " An opportunity for sophomore year undergrad students to intern at Microsoft India. The application usually opens in May-June.",
   },
 ];
 
@@ -481,7 +489,7 @@ const resourcesData = [
   },
   {
     id: 4,
-    title: "Project based learning",
+    title: "Project-based learning",
     link: "https://github.com/Uncodedtech/Project_based_learning",
   },
   {
@@ -501,7 +509,7 @@ const resourcesData = [
   },
   {
     id: 8,
-    title: "Startup,CEO,Marketing",
+    title: "Startups & Marketing",
     link: "https://github.com/Uncodedtech/ceo",
   },
   {
