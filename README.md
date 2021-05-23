@@ -79,7 +79,7 @@ Some useful links to search for hackathons around you: <br>
 | Github Campus Expert   | [Visit the page](https://apply.githubcampus.expert/)  | Applications open twice a year in Feb and August. |
 | GeeksForGeeks Campus Ambassador  | [Visit the page](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)  | Sophomore and Prefinal year students can apply for the program. Applications open around May/June. |
 | HackerEarth University Ambassador Program  | [Visit the page](https://www.hackerearth.com/university/)  | (Check the website for updates)  |
-| Hackerrank Campus Ambassador  |[Visit the page](https://www.hackerrank.com/campus-ambassador-program)  | (Check the website for updates)  |
+| Hackerrank Campus Ambassador  |[Visit the page](https://www.hackerrank.com/campus-ambassador-program)  | Applications open around May/June. |
 | Cisco Devnet Campus Ambassador| [Visit the page](https://developer.cisco.com/site/student/)  | (Check the website for updates)  | 
 | Intel Software Innovator Program  | [Visit the page](https://devmesh.intel.com/member-programs/intel-software-innovator-program#:~:text=Intel%20Software%20Innovator%20Program%20The%20Intel%C2%AE%20Software%20Innovator,demonstration%20opportunities%20at%20industry%20events%20and%20developer%20gatherings.)  | (Check the website for updates)  |
 | AWS Educate Student Ambassador | [Visit the page](https://aws.amazon.com/education/awseducate/student-ambassador-program/)  | (Check the website for updates)  | 
@@ -162,11 +162,12 @@ Some useful links to practice and learn CP: <br>
 | Ethereum India Scholarship | [Visit the page](https://eif2.devfolio.co/) | It's an 8-week mentor-led program for those interested to dive deep into the ethereum ecosystem. |
 | Kaggle Contests | [Visit the page](https://www.kaggle.com/) | It hosts tons of Data Science contests every month.|
 | Codechef's Go For Gold initiative | [Visit the page](https://www.codechef.com/goforgold)  | Cash prize will be awarded to any Indian team that secures a world rank lower than (current best) 18 in ICPC. |
-| Udacity Scholarship | [Visit the page](https://www.udacity.com/scholarships) | It offers nano degree programs to deserving candidates. |
+| Udacity Scholarship | [Visit the page](https://www.udacity.com/scholarships) | It offers nano-degree programs to deserving candidates. |
 | Google Venkat Scholarship | [Visit the page](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/) | Selected students will receive a financial grant towards tuition expenses and will be invited to visit the YouTube headquarters in the USA.  |
 | Samsung PRISM Programme | [Visit the page](https://www.samsungprism.com/) | Student and Professor form a team to work on real-world projects assigned by Samsung (Bengaluru). Also, get to interact with industry mentors. |
 | Google Nonprofit Marketing Immersion | [Visit the page](https://www.google.com/grants/get-help/nonprofit-marketing-immersion/) | A challenge for those interested in digital marketing. The applications are open throughout the year. |
 | NASA Space Apps Hackathon | [Visit the page](https://www.spaceappschallenge.org/) | Space Apps inspires communities to come together, think intensely, and create solutions to important problems. The event usually happens in Sept-Oct. |
+| Microsoft Engage Mentorship | [Visit the page](https://careers.microsoft.com/us/en/job/1049887/Engage-Mentorship) |  An opportunity for sophomore year undergrad students to intern at Microsoft India. The application usually opens in May-June. |
 
 * Also check out [Scholarshiptrack](https://scholarshiptrack.org/ ) for more such opportunities.
 
@@ -277,11 +278,11 @@ Some useful links to practice and learn CP: <br>
 |Interview Preparation | [Visit](https://github.com/Uncodedtech/Interviewprep) |
 |Design Resources | [Visit](https://github.com/Uncodedtech/design-resources-for-developers) |
 |Jobs List | [Visit](https://github.com/Uncodedtech/Jobslist) |
-|Project based learning  | [Visit](https://github.com/Uncodedtech/Project_based_learning) |
+|Project-based learning  | [Visit](https://github.com/Uncodedtech/Project_based_learning) |
 | APIs & resources | [Visit](https://github.com/Uncodedtech/apis_devops) |
 |Roadmaps & resources | [Visit](https://github.com/Uncodedtech/RoadmapsResources) |
 |Cheatsheets | [Visit](https://github.com/Uncodedtech/awesome-cheatsheets) |
-| Startup,CEO,Marketing | [Visit](https://github.com/Uncodedtech/ceo) |
+| Startups & Marketing | [Visit](https://github.com/Uncodedtech/ceo) |
 | Miscellaneous Repositories | [Visit](https://github.com/Uncodedtech/miscRepositories) |
 
 <div align="right">
