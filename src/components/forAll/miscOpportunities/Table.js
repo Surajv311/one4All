@@ -77,8 +77,7 @@ function Table() {
         <br></br>
         <hr></hr>
         <p class="alignp_bottom">
-          (Apart from the list , a great platform for updates on such
-          opportunities is: {""}
+          (Also, a must-visit website for updates on such opportunities is: {""}
           <a class="changeColor_a" href="https://scholarshiptrack.org/">
             Scholarshiptrack
           </a>
