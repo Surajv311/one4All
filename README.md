@@ -104,7 +104,7 @@ Some useful links to search for hackathons around you: <br>
 
 Some useful links to practice and learn CP: <br>
 
-[Codeforces](https://codeforces.com/), [Topcoder](https://www.topcoder.com/), [Codechef](https://www.codechef.com/), [CP-Algorithms](https://cp-algorithms.com/). 
+[Codeforces](https://codeforces.com/), [Topcoder](https://www.topcoder.com/), [Codechef](https://www.codechef.com/), [CP-Algorithms](https://cp-algorithms.com/), [Scaler Topics](https://www.scaler.com/topics/) . 
 
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
