@@ -75,7 +75,7 @@ Some useful links to search for hackathons around you: <br>
 ### Campus Ambassador Opportunities: 
 | Name  | Link | Info | 
 | ------------- | ------------- | ------------- |
-|Microsoft Learn Student Ambassador | [Visit the page](https://studentambassadors.microsoft.com/)  | Students can apply in any year of their degree course. Applications open throughout the year. |
+|Microsoft Learn Student Ambassador | [Visit the page](https://studentambassadors.microsoft.com/)|Microsoft Learn Student Ambassador | [Visit the page](https://studentambassadors.microsoft.com/)  | Students can apply in any year of their degree course. Applications open throughout the year. |
 | Github Campus Expert   | [Visit the page](https://apply.githubcampus.expert/)  | Applications open twice a year in Feb and August. |
 | GeeksForGeeks Campus Ambassador  | [Visit the page](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)  | Sophomore and Prefinal year students can apply for the program. Applications open around May/June. |
 | HackerEarth University Ambassador Program  | [Visit the page](https://www.hackerearth.com/university/)  | (Check the website) |
@@ -84,6 +84,7 @@ Some useful links to search for hackathons around you: <br>
 | Intel Software Innovator Program  | [Visit the page](https://devmesh.intel.com/member-programs/intel-software-innovator-program#:~:text=Intel%20Software%20Innovator%20Program%20The%20Intel%C2%AE%20Software%20Innovator,demonstration%20opportunities%20at%20industry%20events%20and%20developer%20gatherings.)  | (Check the website) |
 | AWS Educate Student Ambassador | [Visit the page](https://aws.amazon.com/education/awseducate/student-ambassador-program/)  | (Check the website)  | 
 | Alexa student influencer | [Visit the page](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)  | (Check the website) | 
+|InterviewBit Campus Ambassador Program | [Visit the page](https://www.interviewbit.com/pages/campus-ambassador/) | (Check the website) |
 
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
